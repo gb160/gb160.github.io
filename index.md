@@ -28,7 +28,8 @@ gb160@protonmail.com
 
 Do not select 'Paying for goods or services'
 
-Please put this email address in the PayPal reference so I know who you are
+Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
+are very often late/non existent.
 
 You will be issued a login that will activate the app on 1 device for 12 months.
 You will be entitled to free updates within that 12 months.
@@ -37,6 +38,7 @@ You will be entitled to free updates within that 12 months.
 ### Upgrading
 
 If you already have the Mod DJI Fly app installed, and you wish to update to a newer version, then just follow the same installation instructions that you were sent originally, but ignore the step about uninstalling your current app.
+
 Unless you are told otherwise you will be uble to update direct to the latest version without uninstalling.
 
 
@@ -44,7 +46,7 @@ Unless you are told otherwise you will be uble to update direct to the latest ve
 
 If any issues or questions arise, then feel free to contact me at:
 
-**gb160@protonmail.com**
+[gb160@protonmail.com](gb160@protonmail.com)
 
 Cheers
 
