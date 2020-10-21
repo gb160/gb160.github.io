@@ -46,7 +46,7 @@ Unless you are told otherwise you will be uble to update direct to the latest ve
 
 If any issues or questions arise, then feel free to contact me at:
 
-[gb160@protonmail.com](gb160@protonmail.com)
+[gb160@protonmail.com](mailto:gb160@protonmail.com)
 
 Cheers
 
