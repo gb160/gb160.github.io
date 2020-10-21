@@ -21,7 +21,7 @@ Due to limited test devices, we can only guarantee the app will work on iOS12 an
 
 If none of this is a problem then Paypal £10 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY) to:
 
-[PayPal link](https://paypal.me/fccdjifly?locale.x=en_GB)
+[PayPal link](https://paypal.me/fccdjifly/10GBP)
 
 or
 
