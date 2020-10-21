@@ -1,4 +1,4 @@
-# Mod DJI Fly
+# Information
 
 
 Please read the following before doing anything:
@@ -35,20 +35,25 @@ You will be issued a login that will activate the app on 1 device for 12 months.
 You will be entitled to free updates within that 12 months.
 
 
-### Upgrading
+# Upgrading
 
 If you already have the Mod DJI Fly app installed, and you wish to update to a newer version, then just follow the same installation instructions that you were sent originally, but ignore the step about uninstalling your current app.
 
 Unless you are told otherwise you will be uble to update direct to the latest version without uninstalling.
 
 
-## Contact and Support
+# Contact and Support
 
 If any issues or questions arise, then feel free to contact me at:
 
 [gb160@protonmail.com](mailto:gb160@protonmail.com)
 
 Cheers
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
