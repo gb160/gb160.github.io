@@ -1,12 +1,14 @@
 # Mod DJI Fly
 
 
-Please read it all before doing anything:
+Please read the following before doing anything:
 
 This app is iOS only, current version v1.1.10
 
-**YOU MUST ARRANGE APP SIGNING YOURSELF...PLEASE ASK ABOUT THIS BEFORE GOING ANY FURTHER IF YOU'RE NOT SURE. 
-By purchasing the app it is presumed that you know how to sign the app and install on your device.**
+**YOU MUST ARRANGE APP SIGNING YOURSELF**
+**PLEASE ASK ABOUT THIS BEFORE GOING ANY FURTHER IF YOU'RE NOT SURE.**
+
+**By purchasing the app it is presumed that you know how to sign the app and install on your device.**
 
 
 If you have a jailbroken iDevice you wont need to sign the app.
@@ -31,11 +33,20 @@ Please put this email address in the PayPal reference so I know who you are
 You will be issued a login that will activate the app on 1 device for 12 months.
 You will be entitled to free updates within that 12 months.
 
+
+### Upgrading
+
+If you already have the Mod DJI Fly app installed, and you wish to update to a newer version, then just follow the same installation instructions that you were sent originally, but ignore the step about uninstalling your current app.
+Unless you are told otherwise you will be uble to update direct to the latest version without uninstalling.
+
+
+## Contact and Support
+
+If any issues or questions arise, then feel free to contact me at:
+
+**gb160@protonmail.com**
+
 Cheers
-
-
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
