@@ -5,8 +5,8 @@ Please read it all before doing anything:
 
 This app is iOS only, current version v1.1.10
 
-YOU MUST ARRANGE APP SIGNING YOURSELF...PLEASE ASK ABOUT THIS BEFORE GOING ANY FURTHER IF YOU'RE NOT SURE. 
-By purchasing the app it is presumed that you know how to sign the app and install on your device.
+**YOU MUST ARRANGE APP SIGNING YOURSELF...PLEASE ASK ABOUT THIS BEFORE GOING ANY FURTHER IF YOU'RE NOT SURE. 
+By purchasing the app it is presumed that you know how to sign the app and install on your device.**
 
 
 If you have a jailbroken iDevice you wont need to sign the app.
