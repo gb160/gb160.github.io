@@ -54,5 +54,6 @@ Cheers
 
 gb160
 
-{% link index2.md %}
+{% link ./index2.md %}
+
 [link](https://gb160.github.io/index2.md)
