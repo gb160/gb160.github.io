@@ -54,4 +54,4 @@ Cheers
 
 gb160
 
-[Latest installation guide]({% link instructions.md %})
+[Latest installation guide]({% link installation.md %})
