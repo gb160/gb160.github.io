@@ -54,6 +54,4 @@ Cheers
 
 gb160
 
-[Link to a post]({% link index2.md %})
-
-[link](https://gb160.github.io/index2.md)
+[Latest installation guide]({% link index2.md %})
