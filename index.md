@@ -36,15 +36,9 @@ You will be issued a login that will activate the app on 1 device for 12 months.
 You will be entitled to free updates within that 12 months.
 
 
-# Upgrading
+# Installation and updating
 
-If you already have the Mod DJI Fly app installed, and you wish to update to a newer version, then just follow the same installation instructions that you were sent originally, but ignore the step about uninstalling your current app.
-
-Unless you are told otherwise you will be uble to update direct to the latest version without uninstalling.
-
-# Installation
-
-[Latest installation guide]({% link installation.md %})
+[Latest installation/update guide]({% link installation.md %})
 
 
 # Contact and Support
