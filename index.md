@@ -54,6 +54,6 @@ Cheers
 
 gb160
 
-{% link ./index2.md %}
+[Link to a post]({% link ./index2.md %})
 
 [link](https://gb160.github.io/index2.md)
