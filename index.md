@@ -42,6 +42,10 @@ If you already have the Mod DJI Fly app installed, and you wish to update to a n
 
 Unless you are told otherwise you will be uble to update direct to the latest version without uninstalling.
 
+# Installation
+
+[Latest installation guide]({% link installation.md %})
+
 
 # Contact and Support
 
@@ -53,7 +57,3 @@ If any issues or questions arise, then feel free to contact me at:
 Cheers
 
 gb160
-
-# Installation
-
-[Latest installation guide]({% link installation.md %})
