@@ -4,23 +4,23 @@ Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to s
 
 # To install on a non-jailbroken device
 
-	Download the ipa from:
-	http://moddjifly.ddns.net
+Download the ipa from:
+http://moddjifly.ddns.net
 
-	Then sign and install manually.
+Then sign and install manually.
 
 # To install on a jailbroken device
 
-	Make sure you have installed the package 'appsync unified' from Cydia.
+Make sure you have installed the package 'appsync unified' from Cydia.
 
-	Then on the iDevice go to:
-	http://flyunsigned.ddns.net
+Then on the iDevice go to:
+http://flyunsigned.ddns.net
 
-	Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
+Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
 
-	(Alternatively you can download the ipa from:
-	http://moddjifly.ddns.net
-	...and install it manually)
+(Alternatively you can download the ipa from:
+http://moddjifly.ddns.net
+...and install it manually)
 
 
 # When the app is installed
