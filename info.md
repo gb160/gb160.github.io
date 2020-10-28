@@ -16,8 +16,7 @@ If you have a jailbroken iDevice you wont need to sign the app.
 
 We can guarantee that the current app version will achieve FCC mode with the current firmware, we don't know what the future holds so update the firmware at your own risk.
 
-Due to limited test devices, we can only guarantee the app will work on iOS12 and iOS13...we hold no responsibility if you're running an older or newer OS and the app doesn't work.
-(We have had positive feedback from a lot of users on iOS 14 but haven't yet tested it fully)
+Due to limited test devices, we can only guarantee the app will work on iOS12, iOS13 and iOS14 ...we hold no responsibility if you're running an older or beta OS and the app doesn't work.
 
 If none of this is a problem then Paypal £10 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY) to:
 
