@@ -1,7 +1,6 @@
 # Information
 
-[Latest installation/update guide]({% link info.md %})
-
+[Purchasing information]({% link info.md %})
 
 
 # Installation and updating
