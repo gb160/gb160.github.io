@@ -4,36 +4,27 @@
 
 # To install on a non-jailbroken device
 
-Download the ipa from:
-[Dropbox link](http://moddjifly.ddns.net)
-
-Then sign and install manually.
+* Download the ipa from: [Dropbox link](http://moddjifly.ddns.net)
+* Then sign and install manually.
 
 # To install on a jailbroken device
 
-Make sure you have installed the package 'appsync unified' from Cydia.
+* Make sure you have installed the package 'appsync unified' from Cydia.
+* Then on the iDevice go to: [Apppbox link](http://flyunsigned.ddns.net)
+* Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
 
-Then on the iDevice go to:
-[Apppbox link](http://flyunsigned.ddns.net)
-
-Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
-
-(Alternatively you can download the ipa from:
-[Dropbox link](http://moddjifly.ddns.net)
-...and install it manually)
+(Alternatively you can download the ipa from: [Dropbox link](http://moddjifly.ddns.net) and then install it manually)
 
 
 # When the app is installed
 
 You will need internet access on the device for the initial activation.
 
-When the app is installed, on the iDevice go to:
-
-iOS Settings app -> Mod DJI Fly
-
-Then enter your login details in the login field.
-
-Then open the Mod DJI Fly app (if you've already opened the app after installation, force close it, then re-open it)...then agree to the normal prompts exactly how you would on the stock app. **The only very important prompt is to allow location services**
+* When the app is installed, on the iDevice go to iOS Settings app -> Mod DJI Fly
+* Then enter your login details in the login field.
+* Then open the Mod DJI Fly app (if you've already opened the app after installation, force close it, then re-open it)
+* agree to the normal prompts exactly how you would on the stock app. 
+**The only very important prompt is to allow location services**
 
 Once you get to the DJI Fly home screen, go back to the iOS settings and verify that in the status field it now says 'Activated'.
 
