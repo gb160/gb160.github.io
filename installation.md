@@ -10,7 +10,7 @@
 ## To install on a jailbroken device
 
 * Make sure you have installed the package 'appsync unified' from Cydia.
-* Then on the iDevice go to: [Apppbox link](http://flyunsigned.ddns.net)
+* Then on the iDevice go to: [Appbox link](http://flyunsigned.ddns.net)
 * Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
 
 (Alternatively you can download the ipa from: [Dropbox link](http://moddjifly.ddns.net) and then install it manually)
