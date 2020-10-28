@@ -2,12 +2,12 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
-# To install on a non-jailbroken device
+## To install on a non-jailbroken device
 
 * Download the ipa from: [Dropbox link](http://moddjifly.ddns.net)
 * Then sign and install manually.
 
-# To install on a jailbroken device
+## To install on a jailbroken device
 
 * Make sure you have installed the package 'appsync unified' from Cydia.
 * Then on the iDevice go to: [Apppbox link](http://flyunsigned.ddns.net)
@@ -16,7 +16,7 @@
 (Alternatively you can download the ipa from: [Dropbox link](http://moddjifly.ddns.net) and then install it manually)
 
 
-# When the app is installed
+## When the app is installed
 
 You will need internet access on the device for the initial activation.
 
@@ -38,7 +38,7 @@ If you have more than one device registered with us (some people have multiple d
 Any issues/questions then just let me know/ask
 
 
-# Upgrading
+## Upgrading
 
 If you already have the Mod DJI Fly app installed, and you wish to update to a newer version, then just follow the same installation instructions that you were sent originally, but ignore the step about uninstalling your current app.
 
