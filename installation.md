@@ -2,14 +2,14 @@
 
 Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.
 
-## To install on a non-jailbroken device:
+# To install on a non-jailbroken device
 
 	Download the ipa from:
 	http://moddjifly.ddns.net
 
 	Then sign and install manually.
 
-## To install on a jailbroken device:
+# To install on a jailbroken device
 
 	Make sure you have installed the package 'appsync unified' from Cydia.
 
@@ -23,7 +23,7 @@ Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to s
 	...and install it manually)
 
 
-## When the app is installed :
+# When the app is installed
 
 You will need internet access on the device for the initial activation.
 
