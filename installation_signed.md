@@ -2,7 +2,7 @@
 Please follow the steps **exactly**
 
 * Uninstall the current Mod DJI Fly app if you have it installed.
-* On the iDevice go to: [Appbox link](https://tiny.app.link/RBBVsRDr0ab)
+* On the iDevice go to: [Appbox link](https://tiny.app.link/3eCo2URN1ab)
 * Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
 
 ## When the app is installed
