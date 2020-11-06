@@ -2,20 +2,19 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
-**The unsigned ipa is still on version v1.1.10, we hope to update this very soon**
+**The unsigned ipa for v1.2.0 is still being tested, so dont get angry if there are issues...stay on v1.1.10**
 
 ## To install on a non-jailbroken device
 
-* Download the ipa from: [Dropbox link](http://moddjifly.ddns.net)
+* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/8p5rtf227objiqa/Mod_DJI_Fly_v1.2.0_dsig.ipa?dl=0)
 * Then sign and install manually.
 
 ## To install on a jailbroken device
 
-* Make sure you have installed the package 'appsync unified' from Cydia.
-* Then on the iDevice go to: [Appbox link](http://flyunsigned.ddns.net)
-* Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
-
-(Alternatively you can download the ipa from: [Dropbox link](http://moddjifly.ddns.net) and then install it manually)
+* Make sure you have installed the packages 'appsync unified' and 'filza file manager' from Cydia.
+* On the iDevice download the ipa from here: [Dropbox link](https://www.dropbox.com/s/8p5rtf227objiqa/Mod_DJI_Fly_v1.2.0_dsig.ipa?dl=0)
+* When its downloaded you can select the option 'import to filza' from your browser, alternatively you can open filza and search for eg 'Mod_DJI_Fly_v1.2.0'
+* When you've located the ipa highlight and select the option to install.
 
 
 ## When the app is installed
