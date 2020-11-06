@@ -2,6 +2,8 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
+**The unsigned ipa is still on version v1.1.10, we hope to update this very soon**
+
 ## To install on a non-jailbroken device
 
 * Download the ipa from: [Dropbox link](http://moddjifly.ddns.net)
