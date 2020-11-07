@@ -3,8 +3,7 @@
 
 Please read the following before doing anything:
 
-This app is iOS only, current signed version v1.2.0
-(Current unsigned version is v1.1.10, we hope to update this soon)
+This app is iOS only, current version is v1.2.0
 
 **YOU MUST ARRANGE APP SIGNING YOURSELF**
 
