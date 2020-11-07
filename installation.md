@@ -4,7 +4,7 @@
 
 **The unsigned ipa for v1.2.0 is still being tested, so dont get angry if there are issues...stay on v1.1.10**
 
-**Uninstall any exiasting Mod DJI Fly app before proceeding**
+**Uninstall any existing Mod DJI Fly app before proceeding**
 
 ## To install on a non-jailbroken device
 
