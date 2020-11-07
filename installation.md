@@ -4,6 +4,8 @@
 
 **The unsigned ipa for v1.2.0 is still being tested, so dont get angry if there are issues...stay on v1.1.10**
 
+**Uninstall any exiasting Mod DJI Fly app before proceeding**
+
 ## To install on a non-jailbroken device
 
 * Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/8p5rtf227objiqa/Mod_DJI_Fly_v1.2.0_dsig.ipa?dl=0)
@@ -42,6 +44,4 @@ Any issues/questions then just let me know/ask
 
 ## Upgrading
 
-If you already have the Mod DJI Fly app installed, and you wish to update to a newer version, then just follow the same installation instructions that you were sent originally, but ignore the step about uninstalling your current app.
-
-Unless you are told otherwise you will be able to update direct to the latest version without uninstalling.
+You need to uninstall any other version of the Mod DJI Fly app, then follow the installation instructions above.
