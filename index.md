@@ -5,7 +5,7 @@
 
 # Installation and updating
 
-[Latest installation/update guide]({% link installation.md %})
+[Latest installation/update guide]({% link installation_unsigned.md %})
 
 
 # Contact and Support
