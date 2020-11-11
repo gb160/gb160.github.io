@@ -8,12 +8,12 @@
 
 ## To install on a non-jailbroken device
 
-**Make sure you have installed the package 'appsync unified' from Cydia**
-
 * Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/zhxrukny2srelpm/Mod_DJI_Fly_v1.2.0_gdsig.ipa?dl=0)
 * Then sign and install manually.
 
 ## To install on a jailbroken device
+
+**Make sure you have installed the package 'appsync unified' from Cydia**
 
 * On the iDevice go to: [Appbox link](https://tiny.app.link/hr7bqFDTjbb)
 * Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
