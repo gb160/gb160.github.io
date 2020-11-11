@@ -28,7 +28,6 @@
 
 **You will need internet access on the device for the initial activation.**
 
-When the app is installed
 * On the iDevice go to iOS Settings app -> Mod DJI Fly
 * Enter your login details in the login field.
 * Open the Mod DJI Fly app (if you've already opened the app after installation, force close it, then re-open it)
