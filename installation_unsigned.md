@@ -21,7 +21,7 @@
 **Make sure you have installed the package 'appsync unified' from Cydia**
 
 * On the iDevice go to: [Appbox link](https://tiny.app.link/hr7bqFDTjbb)
-* Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.(It seems on iOS 14.x sometimes you just get a greyed out app icon while the app is downloading/installing, so dont panic, just wait for the app to appear on your hoescreen. )
+* Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.(It seems on iOS 14.x sometimes you just get a greyed out app icon while the app is downloading/installing, so dont panic, just wait for the app to appear on your homescreen. )
 
 **or**
 
