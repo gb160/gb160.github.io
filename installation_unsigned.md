@@ -1,3 +1,8 @@
+## Upgrading
+
+**If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below...you only need to uninstall if you are on an old version or a Mod app from another provider**
+
+
 # Unsigned Installation
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
@@ -16,7 +21,7 @@
 **Make sure you have installed the package 'appsync unified' from Cydia**
 
 * On the iDevice go to: [Appbox link](https://tiny.app.link/hr7bqFDTjbb)
-* Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
+* Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.(It seems on iOS 14.x sometimes you just get a greyed out app icon while the app is downloading/installing, so dont panic, just wait for the app to appear on your hoescreen. )
 
 **or**
 
@@ -45,7 +50,3 @@ If you have more than one device registered with us (some people have multiple d
 
 Any issues/questions then just let me know/ask
 
-
-## Upgrading
-
-You need to uninstall any other version of the Mod DJI Fly app, then follow the installation instructions above.
