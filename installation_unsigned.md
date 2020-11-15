@@ -1,5 +1,3 @@
-# ALL LINKS ARE DOWN DUE TO AN ISSUE WITH DROPBOX, THEY WILL BE REINSTATED ASAP, CHECK BACK LATER
-
 # Upgrading
 
 **If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below, you wont have to login/authenticate again if you do it this way...you only need to uninstall if you were using an old version or a Mod app from another provider**
@@ -14,14 +12,14 @@
 
 ### To install on a non-jailbroken device
 
-* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/wjeuda0nqmexbqv/Mod_DJI_Fly_v1.2.1_test_unsig.ipa?dl=0)
+* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
 * Then sign and install manually.
 
 ### To install on a jailbroken device
 
 **Make sure you have installed the package 'appsync unified' from Cydia, and also 'filza file manager' if thats how you are installing the ipa**
 
-* On the iDevice download the ipa (select direct download) from here: [Dropbox link](https://www.dropbox.com/s/wjeuda0nqmexbqv/Mod_DJI_Fly_v1.2.1_test_unsig.ipa?dl=0)
+* On the iDevice download the ipa (select direct download) from here: [Dropbox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
 * Install manually (appinst) or via Filza
 
 
