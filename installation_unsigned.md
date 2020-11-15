@@ -10,17 +10,10 @@
 **The unsigned ipa for v1.2.1 is still being tested (although so far we have zero problems reported)...however if you are in any doubt stay on v1.1.10 for now**
 
 
-### To install on a non-jailbroken device
+### To install
 
 * Download the ipa on your Mac/PC from: [Mega link](https://mega.nz/file/WFUkXLAI#30EJJFFvR7mCCbfvhKm3V-AllWaFFzIhIctymvjepgA)
 * Then sign and install manually.
-
-### To install on a jailbroken device
-
-**Make sure you have installed the package 'appsync unified' from Cydia, and also 'filza file manager' if thats how you are installing the ipa**
-
-* On the iDevice download the ipa (select direct download) from here: [Mega link](https://mega.nz/file/WFUkXLAI#30EJJFFvR7mCCbfvhKm3V-AllWaFFzIhIctymvjepgA)
-* Install manually (appinst) or via Filza
 
 
 ### When the app is installed
