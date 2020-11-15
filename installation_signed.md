@@ -1,3 +1,5 @@
+# DUE TO AN ISSUE WITH DROPBOX ALL LINKS ARE DOWN, WE WILL CORRECT THIS ASASP
+
 # Upgrading
 
 **If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below...you only need to uninstall if you are on an old version or a Mod app from another provider**
