@@ -10,22 +10,22 @@
 **The unsigned ipa for v1.2.1 is still being tested (although so far we have zero problems reported)...however if you are in any doubt stay on v1.1.10 for now**
 
 
-### To install on Non-Jailbroken device:
+### To install on a non-jailbroken device
 
-* Download the ipa on your Mac/PC from: [DropBox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
+* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
 * Then sign and install manually.
 
-### To install on Jailbroken device:
+### To install on a jailbroken device
 
+**Make sure you have installed the package 'appsync unified' from Cydia, and also 'filza file manager' if thats how you are installing the ipa**
 
-* Download the ipa on your Mac/PC from: [DropBox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
-* Then sign and install manually.
+* On the iDevice download the ipa (select direct download) from here: [Dropbox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
+* Install manually (appinst) or via Filza
 
 
 ### When the app is installed
 
 **You will need internet access on the device for the initial activation.**
-**You shoudn't need to do this step if you have just upgraded from v1.2.x which was already authenticated**
 
 * On the iDevice go to iOS Settings app -> Mod DJI Fly
 * Enter your login details in the login field.
@@ -43,4 +43,3 @@ If you have more than one device registered with us (some people have multiple d
 **Sharing logins will result in your account being banned**
 
 Any issues/questions then just let me know/ask
-
