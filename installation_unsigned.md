@@ -10,9 +10,15 @@
 **The unsigned ipa for v1.2.1 is still being tested (although so far we have zero problems reported)...however if you are in any doubt stay on v1.1.10 for now**
 
 
-### To install
+### To install on Non-Jailbroken device:
 
-* Download the ipa on your Mac/PC from: [Mega link](https://mega.nz/file/WFUkXLAI#30EJJFFvR7mCCbfvhKm3V-AllWaFFzIhIctymvjepgA)
+* Download the ipa on your Mac/PC from: [DropBox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
+* Then sign and install manually.
+
+### To install on Jailbroken device:
+
+
+* Download the ipa on your Mac/PC from: [DropBox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
 * Then sign and install manually.
 
 
