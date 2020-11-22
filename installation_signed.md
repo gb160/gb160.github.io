@@ -7,7 +7,7 @@
 # Signed Installation
 Please follow the steps **exactly**
 
-* On the iDevice go to: [Appbox link](https://tiny.app.link/NLYfnGcnBbb)
+* On the iDevice go to: [Appbox link](https://tiny.app.link/wuCRFeE9Bbb)
 * Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
 
 ## When the app is installed
