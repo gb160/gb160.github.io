@@ -18,6 +18,10 @@ We can guarantee that the current app version will achieve FCC mode with the cur
 
 Due to limited test devices, we can only guarantee the app will work on iOS12, iOS13 and iOS14 ...we hold no responsibility if you're running an older or beta OS and the app doesn't work.
 
+You will be issued a login that will activate the app on 1 device for 12 months, any attempt to use one login on multiple devices will result in the account being suspended.
+
+You will be entitled to free updates within that 12 months.
+
 If none of this is a problem then Paypal £10 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY) to:
 
 [PayPal link](https://paypal.me/fccdjifly/10GBP)
@@ -30,9 +34,6 @@ Do not select 'Paying for goods or services'
 
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
-
-You will be issued a login that will activate the app on 1 device for 12 months.
-You will be entitled to free updates within that 12 months.
 
 
 # Installation and updating
