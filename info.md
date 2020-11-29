@@ -36,11 +36,6 @@ Please put your email address in the PayPal reference so I know who you are, and
 are very often late/non existent.
 
 
-# Installation and updating
-
-[Latest installation/update guide]({% link installation_unsigned.md %})
-
-
 # Contact and Support
 
 If any issues or questions arise, then feel free to contact me at:
