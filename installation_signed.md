@@ -1,14 +1,10 @@
-# Upgrading
-
-**If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below...you only need to uninstall if you are on an old version or a Mod app from another provider**
-
-**It seems on iOS 14.x sometimes you just get a greyed out app icon while the app is downloading/installing, sometimes it looks like it's doing nothing at all...dont panic, just wait for the app to appear on your homescreen, if you're upgrading you'll know it's finished when you get a light blue dot next to the Mod DJI Fly label, BE PATIENT as it can take a minute or 2... this is an issue with AppBox and isn't something I can fix**
-
 # Signed Installation
 Please follow the steps **exactly**
 
 * On the iDevice go to: [Appbox link](https://tiny.app.link/wuCRFeE9Bbb)
 * Tap on 'Install application', then tap 'install' when the alert pops up...return 	to your home screen to see installation progress.
+
+**It seems on iOS 14.x sometimes you just get a greyed out app icon while the app is downloading/installing, sometimes it looks like it's doing nothing at all...dont panic, just wait for the app to appear on your homescreen, if you're upgrading you'll know it's finished when you get a light blue dot next to the Mod DJI Fly label, BE PATIENT as it can take a minute or 2... this is an issue with AppBox and isn't something I can fix**
 
 ## When the app is installed
 
