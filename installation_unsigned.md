@@ -11,14 +11,14 @@
 
 ### To install on a non-jailbroken device
 
-* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
+* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/214t0tdt7011kgx/Mod_DJI_Fly_v1.2.2_unsigned.ipa?dl=0)
 * Then sign and install manually.
 
 ### To install on a jailbroken device
 
 **Make sure you have installed the package 'appsync unified' from Cydia, and also 'filza file manager' if thats how you are installing the ipa**
 
-* On the iDevice download the ipa (select direct download) from here: [Dropbox link](https://www.dropbox.com/s/5h8djnt0z3vd77v/Fly_v1.2.1_test_unsig.ipa?dl=0)
+* On the iDevice download the ipa (select direct download) from here: [Dropbox link](https://www.dropbox.com/s/214t0tdt7011kgx/Mod_DJI_Fly_v1.2.2_unsigned.ipa?dl=0)
 * Install manually (appinst) or via Filza
 
 
