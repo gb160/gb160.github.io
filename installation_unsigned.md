@@ -7,7 +7,6 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
-**The unsigned ipa for v1.2.1 is still being tested (although so far we have zero problems reported)...however if you are in any doubt stay on v1.1.10 for now**
 
 
 ### To install on a non-jailbroken device
