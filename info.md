@@ -22,9 +22,9 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 You will be entitled to free updates within that 12 months.
 
-If none of this is a problem then Paypal £10 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY) to:
+If none of this is a problem then Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY) to:
 
-[PayPal link](https://paypal.me/fccdjifly/10GBP)
+[PayPal link](https://paypal.me/fccdjifly/15GBP)
 
 or
 
