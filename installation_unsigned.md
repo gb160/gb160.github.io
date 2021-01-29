@@ -38,7 +38,7 @@ If you have more than one device registered with us (some people have multiple d
 
 # Upgrading
 
-**If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below, you wont have to login/authenticate again if you do it this way...you only need to uninstall if you were using an old version or a Mod app from another provider**
+**If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions above, you wont have to login/authenticate again if you do it this way...you only need to uninstall if you were using an old version or a Mod app from another provider**
 
 
 
