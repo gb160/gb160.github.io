@@ -1,8 +1,3 @@
-# Upgrading
-
-**If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below, you wont have to login/authenticate again if you do it this way...you only need to uninstall if you were using an old version or a Mod app from another provider**
-
-
 # Unsigned Installation
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
@@ -40,5 +35,12 @@ It goes without saying don't share/post your login information anywhere, there i
 If you have more than one device registered with us (some people have multiple devices or registered devices for friends) you will have 2/3/4 different logins, make sure you only use one login on each device, and please inform any other users (friends etc) of their login information.
 
 **Sharing logins will result in your account being banned**
+
+# Upgrading
+
+**If upgrading from v1.2.x you do not need to uninstall the Mod DJI Fly app first, just follow the installation instructions below, you wont have to login/authenticate again if you do it this way...you only need to uninstall if you were using an old version or a Mod app from another provider**
+
+
+
 
 Any issues/questions then just let me know/ask
