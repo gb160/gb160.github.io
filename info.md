@@ -3,7 +3,7 @@
 
 Please read the following before doing anything:
 
-This app is iOS only, current version is v1.2.4
+This app is iOS only, current version is v1.2.5
 
 **YOU MUST ARRANGE APP SIGNING YOURSELF**
 
