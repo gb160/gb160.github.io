@@ -31,15 +31,15 @@ Do not select 'Paying for goods or services' or a handling fee to paypal will be
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
 
+**Note: If you email me and get no response, please check your spam/junk folder. I respond to every email.**
+**Also please note that many Russian email domains block emails from ProtonMail (because they're encrypted), so if your email address end with '.ru' please use a different one. Hotmail/Live/Gmail all work fine.**
+
 
 # Contact and Support
 
 If any issues or questions arise, then feel free to contact me at:
 
 [gb160@protonmail.com](mailto:gb160@protonmail.com)
-
-**Note: If you email me and get no response, please check your spam/junk folder. I respond to every email.**
-**Also please note that many Russian email domains block emails from ProtonMail (because they're encrypted), so if your email address end with '.ru' please use a different one. Hotmail/Live/Gmail all work fine.**
 
 Cheers
 
