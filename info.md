@@ -22,15 +22,11 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 You will be entitled to free updates within that 12 months.
 
-If none of this is a problem then Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY) to:
+If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY)
 
-[PayPal link](https://paypal.me/fccdjifly/15GBP)
+<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://github.com/gb160/gb160.github.io/blob/gh-pages/PayPal-Button.png" height="200" alt="Donate"></a>
 
-or
-
-gb160@protonmail.com
-
-Do not select 'Paying for goods or services'
+Do not select 'Paying for goods or services' or a handling fee to paypal will be charged.
 
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
