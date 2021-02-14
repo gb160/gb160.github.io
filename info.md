@@ -24,7 +24,7 @@ You will be entitled to free updates within that 12 months.
 
 If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY)
 
-<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://github.com/gb160/gb160.github.io/blob/gh-pages/PayPal-Button.png" height="150" alt="Donate"></a>
+<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://github.com/gb160/gb160.github.io/blob/gh-pages/PayPal-Button.png" height="100" alt="Donate"></a>
 
 Do not select 'Paying for goods or services' or a handling fee to paypal will be charged.
 
