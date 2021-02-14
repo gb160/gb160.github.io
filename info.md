@@ -26,6 +26,9 @@ If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECI
 
 <a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/PayPal-Button.png" height="100" alt="Donate"></a>
 
+<p style="text-align: center"><a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/PayPal-Button.png" height="100" alt="Donate"></a></p>
+
+
 Do not select 'Paying for goods or services' or a handling fee to paypal will be charged.
 
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
