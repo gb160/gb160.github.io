@@ -12,7 +12,7 @@
 ### To install on a jailbroken device
 
 **Make sure you have installed the package 'appsync unified' via Cydia from the official repo (https://cydia.akemi.ai)**
-* [Click here to add the repo to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/)
+[Click here to add the repo to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/)
 
 * Tap on the icon below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
