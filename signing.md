@@ -21,5 +21,5 @@ If your device is jailbroken you wont need to sign the app.
 * Again, On Mac OS use ios app signer, on Windows use 3utools.
 * **I must point out that I'm not affiliated with UDID Registrations in any way, and I'm not responsible for your experiences with them. I've used their service before and had a positive experience.**
 
-Note: Theres are many other tools/methods/services available to sign and install apps, use whatever youre comfortable with...I'm just giving a couple of examples as ones I have personally used and tested.
+Note: There are many other tools/methods/services available to sign and install apps, use whatever you're comfortable with...I'm just giving a couple of examples of ones I have personally used and tested.
 
