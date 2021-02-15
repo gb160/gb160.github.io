@@ -22,6 +22,8 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 You will be entitled to free updates within that 12 months.
 
+The price of the app is £15 (UK/GBR) for a 12 month license.
+
 If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY)
 
 <a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/PayPal-Button.png" height="100" alt="Donate"></a>
