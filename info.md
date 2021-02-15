@@ -7,9 +7,7 @@ This app is iOS only, current version is v1.2.5
 
 **YOU MUST ARRANGE APP SIGNING YOURSELF**
 
-**Further information on signing can be found [HERE]({% link signing.md %})
-
-**
+**Further information on signing can be found [HERE]({% link signing.md %})**
 
 **By purchasing the app it is presumed that you know how to sign the app and install on your device.**
 
