@@ -16,8 +16,8 @@ If your device is jailbroken you wont need to sign the IPA.
 
 ## Third Party App signing 
 * There are third party app signing services who will provide you with the necessary files to sign the IPA for 12 months. This effectively gives you the benefits of using an Apple developer certificate at a smaller cost.
-* Many people use [UDID Registrations](https://www.udidregistrations.com/buy)
 * ### UDID Registrations
+* Many people use [UDID Registrations](https://www.udidregistrations.com/buy)
 * The silver package is the cheapest package that offers the necessary files to sign and install Mod DJI Fly, however I recommend at least the gold package as it offers protection if your device gets revoked...the platinum package also offers online IPA signing and installation, however I've never used this service so I cannout vouch for it.
 * Again, On Mac OS use ios app signer, on Windows use 3utools.
 * **I must point out that I'm not affiliated with UDID Registrations in any way, and I'm not responsible for your experiences with them. I've used their service before and had a positive experience.**
