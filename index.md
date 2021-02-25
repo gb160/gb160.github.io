@@ -3,6 +3,11 @@
 [Purchasing information]({% link info.md %})
 
 
+# Signing
+
+[Information on signing can be found here]({% link signing.md %})**
+
+
 # Installation and updating
 
 [Latest installation/update guide]({% link installation_unsigned.md %})
