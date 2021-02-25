@@ -21,7 +21,7 @@ If your device is jailbroken you wont need to sign the IPA.
 * When you have your .mobileprovision .p12 files, and you .p12 password you can follow the FlySign guide below. 
 
 ## Flysign Guide
-* **This guide can only be used when you have the files '.mobileprovision' '.p12' and you have the .p12 password...These will all be provided by UDID Registrations.**
+* **This guide can only be used when you have the files '.mobileprovision' and '.p12', and you have the .p12 password...These will all be provided by UDID Registrations **
 
 * Go to: [FlySign](https://flysign.ddns.net)
 * Click/tap on 'signing'
