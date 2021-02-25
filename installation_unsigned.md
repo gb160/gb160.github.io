@@ -8,6 +8,7 @@
 
 * Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/7xjs5wyyn6plk9f/Mod_DJI_Fly_v1.2.5_initial_unsig.ipa?dl=1)
 * Then sign and install manually.
+* [Information on signing can be found here]({% link signing.md %})
 
 ### To install on a jailbroken device
 
