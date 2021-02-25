@@ -26,7 +26,7 @@ If your device is jailbroken you wont need to sign the IPA.
 
 * Go to: [FlySign](https://flysign.ddns.net)
 * Click/tap on 'signing'
-* Selct your '.mobileprovision' and '.p12' files.
+* Select your '.mobileprovision' and '.p12' files.
 * Enter your .p12 password
 * Click/tap on the 'sign app' button
 * After a few seconds a QR Code will appear on the screen
