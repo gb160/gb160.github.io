@@ -31,7 +31,7 @@ If your device is jailbroken you wont need to sign the IPA.
 * Click/tap on the 'sign app' button
 * After a few seconds a QR Code will appear on the screen
 * * If you are on a PC/Mac, just open the camera on your iDevice and let it focus on the QR Code, then select 'open in iTunes' and agree to the install prompt.
-* * If you are using your iDevice tap and hold it and select 'open in iTunes' and agree to the install prompt.
+* * If you are using your iDevice tap and hold the QR Code and select 'open in iTunes' and agree to the install prompt.
 * The app will now install to your homescreen, installation can take a few minutes, so be patient.
 
 Note: There are many other tools/methods/services available to sign and install apps, use whatever you're comfortable with...I'm just giving a couple of examples of ones I have personally used and tested.
