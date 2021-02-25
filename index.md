@@ -5,7 +5,7 @@
 
 # Signing
 
-[Information on signing can be found here]({% link signing.md %})**
+[Information on signing can be found here]({% link signing.md %})
 
 
 # Installation and updating
