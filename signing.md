@@ -10,8 +10,8 @@ If your device is jailbroken you wont need to sign the IPA.
 
 ## Apple Developer
 * IPAs can be signed with an Apple developer certificate.
-* This will need repeating every 12 months this is not free. 
-** If you have your .mobileprovision .p12 files, and you .p12 password you can follow the FlySign guide at the bottom of this page. 
+* This will need repeating every 12 months, and is not free. 
+* If you have your .mobileprovision .p12 files, and you .p12 password you can follow the FlySign guide at the bottom of this page. 
 
 ## Third Party App signing 
 * There are third party app signing services who will provide you with the necessary files to sign the IPA for 12 months. This effectively gives you the benefits of using an Apple developer certificate at a smaller cost.
