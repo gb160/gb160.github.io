@@ -6,7 +6,7 @@
 
 ### To install on a non-jailbroken device
 
-* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/7xjs5wyyn6plk9f/Mod_DJI_Fly_v1.2.5_initial_unsig.ipa?dl=1)
+* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/nbdyzh70jy613yt/Mod_DJI_Fly_v1.2.5_initial_o_unsig.ipa?dl=1)
 * Then sign and install manually.
 * [Information on signing can be found here]({% link signing.md %})
 
@@ -19,7 +19,7 @@
 * Tap on the icon below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
 
-<a href="itms-services://?action=download-manifest&url=https://dl.dropbox.com/s/5tnhe1w2jxvk9kt/v1.2.5.plist" class="install"><img src="https://www3.djicdn.com/cms_uploads/download/app/icon/6/4bc58407c5cae24285672f8343882b39.png" height="100" alt="install"></a>
+<a href="itms-services://?action=download-manifest&url=https://dl.dropbox.com/s/5tnhe1w2jxvk9kt/v1.2.5o.plist" class="install"><img src="https://www3.djicdn.com/cms_uploads/download/app/icon/6/4bc58407c5cae24285672f8343882b39.png" height="100" alt="install"></a>
 
 ### When the app is installed
 
