@@ -16,11 +16,6 @@
 
 **[Tap here to add the repo to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/)**
 
-* Tap on the icon below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
-* Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
-
-<a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/gxzyp2gaec9zty0/v1.3.0.plist" class="install"><img src="https://www3.djicdn.com/cms_uploads/download/app/icon/6/4bc58407c5cae24285672f8343882b39.png" height="100" alt="install"></a>
-
 ### When the app is installed
 
 **You will need internet access on the device for the initial activation.**
