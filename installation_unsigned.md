@@ -6,7 +6,7 @@
 
 ### To install on a non-jailbroken device
 
-* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/op5u5uw7wojy4o7/Mod_DJI_Fly_v1.3.0_initial_unsig.ipa?dl=1)
+* Download the ipa on your Mac/PC from: [Dropbox link](https://dl.dropboxusercontent.com/s/k0xaff7yzw1z2p5/Mod_DJI_Fly_v1.3.0_initial_unsig.ipa?dl=1)
 * Then sign and install manually.
 * [Information on signing can be found here]({% link signing.md %})
 
@@ -15,6 +15,11 @@
 **Make sure you have installed the package 'appsync unified' via Cydia from the official repo (https://cydia.akemi.ai)**
 
 **[Tap here to add the repo to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/)**
+
+* Tap on the icon below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
+* Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
+
+<a href="itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/80n1tuf20hnc0bb/v1.3.0.plist" class="install"><img src="https://www3.djicdn.com/cms_uploads/download/app/icon/6/4bc58407c5cae24285672f8343882b39.png" height="100" alt="install"></a>
 
 ### When the app is installed
 
