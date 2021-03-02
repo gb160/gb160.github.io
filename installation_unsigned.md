@@ -31,9 +31,9 @@
 * Agree to the normal prompts exactly how you would on the stock app.
 * **The only very important prompt is to allow location services**
 
-Once you get to the DJI Fly home screen, go back to the iOS settings and verify that in the status field it now says 'Activated'.
+Once you get to the DJI Fly home screen, go back to the iOS settings and verify that in the status field it now says 'FCC Mode Activated'.
 
-That's it, you're good to go... there will be no prompts when you launch the app, as long as your status says 'Activated' you will be in FCC mode. Of course this can still be verified in the transmission tab of the app.
+That's it, you're good to go...as long as the status in iOS settings says 'FCC Mode Activated' you will be in FCC mode. You will receive a notification when using the app which indicates your status also. Of course this can still be verified in the transmission tab of the app.
 
 It goes without saying don't share/post your login information anywhere, there is absolutely no reason to do so.
 If you have more than one device registered with us (some people have multiple devices or registered devices for friends) you will have 2/3/4 different logins, make sure you only use one login on each device, and please inform any other users (friends etc) of their login information.
