@@ -5,6 +5,9 @@ Please read the following before doing anything:
 
 This app is iOS only.
 
+**FCC is available for all Mavic Air 2, Mini 2 & Mini drones**
+**Airsense is only available for Mavic Air 2 drones where the model number ends in 3W**
+
 **YOU MUST ARRANGE APP SIGNING YOURSELF**
 
 **Further information on signing can be found [HERE]({% link signing.md %})**
