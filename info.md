@@ -44,7 +44,7 @@ Please put your email address in the PayPal reference so I know who you are, and
 are very often late/non existent.
 
 **Note: If you email me and get no response, please check your spam/junk folder. I respond to every email.**
-**Also please note that many Russian email domains block emails from ProtonMail (because they're encrypted), so if your email address end with '.ru' please use a different one. Hotmail/Live/Gmail all work fine.**
+**Also please note that many Russian email domains block emails from ProtonMail (because they're encrypted), so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
 
 
 # Contact and Support
