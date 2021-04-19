@@ -5,7 +5,7 @@
 If your device is jailbroken you wont need to sign the IPA.
 
 ## Standard Apple ID
-* IPAs can be signed with a standard Apple ID, this will need repeating every 7 days, this is free. On Mac OS use ios app signer, on Windows use 3utools.
+* IPAs can be signed with a standard Apple ID, this will need repeating every 7 days, this is free. On Mac OS use ios app signer or sideloadly, on Windows use sideloadly or 3utools.
 
 
 ## Apple Developer
