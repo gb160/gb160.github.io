@@ -1,8 +1,8 @@
 # Signing Information
 
-**The app must be signed before you can run it on your device, a red flag for an incorrectly signed IPA is the app will crash immediately after launching it.**
+**If your iDevice is not jailbroken the IPA must be signed before you can run it, a red flag for an incorrectly signed IPA is the app will crash immediately after launching it.**
 
-If your device is jailbroken you wont need to sign the IPA.
+If your device is jailbroken you do not need to sign the IPA.
 
 ## Standard Apple ID
 * IPAs can be signed with a standard Apple ID, this will need repeating every 7 days, this is free. On Mac OS use ios app signer or sideloadly, on Windows use sideloadly or 3utools.
