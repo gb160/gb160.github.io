@@ -40,7 +40,8 @@ If your device is jailbroken you do not need to sign the IPA.
 * See below for video of signing/installation using FlySign:
 
 
-{% include youtubePlayer.html id=page.youtubeId %}
+
+* {% include youtubePlayer.html id=page.youtubeId %}
 
 
 
