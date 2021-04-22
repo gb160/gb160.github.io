@@ -1,3 +1,7 @@
+---
+youtubeId: ZW6Jc_up4MA
+---
+
 # Signing Information
 
 **If your iDevice is not jailbroken the IPA must be signed before you can run it, a red flag for an incorrectly signed IPA is the app will crash immediately after launching it.**
@@ -33,6 +37,12 @@ If your device is jailbroken you do not need to sign the IPA.
 * * If you are on a PC/Mac, just open the camera on your iDevice and let it focus on the QR Code, then select 'open in iTunes' and agree to the install prompt.
 * * If you are using your iDevice tap and hold the QR Code, then select 'open in iTunes' and agree to the install prompt.
 * The app will now install to your homescreen, installation can take a few minutes so be patient.
+* See below for video of signing/installation using FlySign:
+
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+
 
 Note: There are many other tools/methods/services available to sign and install apps, use whatever you're comfortable with...I'm just giving a couple of examples of ones I have personally used and tested.
 
