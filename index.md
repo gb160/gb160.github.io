@@ -1,16 +1,5 @@
 ---
-youtubeId: lDi9uFcD7XI
-vimeoId: putYourIDHere
-twitchId: putYourIDHere
-streamableId: putYourIDHere
-mixerId: putYourIDHere
-driveId: putYourIDHere
-detikId: putYourIDHere
-dailymotionId: putYourIDHere
-metubeId: putYourIDHere
-vidioId: putYourIDHere
-linetodayId: putYourIDHere
-countryId: putYourIDHere
+youtubeId: df7PpD_w4TM
 ---
 
 # Information
