@@ -1,3 +1,5 @@
+youtubeId: df7PpD_w4TM
+
 # Information
 
 [Purchasing information]({% link info.md %})
@@ -21,3 +23,7 @@ If any issues or questions arise, then feel free to contact me at:
 
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
+
+
+
+{% include youtubePlayer.html id=page.youtubeId %}
