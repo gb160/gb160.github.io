@@ -1,3 +1,18 @@
+---
+youtubeId: lDi9uFcD7XI
+vimeoId: putYourIDHere
+twitchId: putYourIDHere
+streamableId: putYourIDHere
+mixerId: putYourIDHere
+driveId: putYourIDHere
+detikId: putYourIDHere
+dailymotionId: putYourIDHere
+metubeId: putYourIDHere
+vidioId: putYourIDHere
+linetodayId: putYourIDHere
+countryId: putYourIDHere
+---
+
 # Information
 
 [Purchasing information]({% link info.md %})
@@ -24,4 +39,4 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 
 
-{% include youtubePlayer.html id=lDi9uFcD7XI %}
+{% include youtubePlayer.html id=page.youtubeId %}
