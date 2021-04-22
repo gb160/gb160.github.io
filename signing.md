@@ -1,5 +1,5 @@
 ---
-youtubeId: ZW6Jc_up4MA
+youtubeId: Z0mQE90xPa4
 ---
 
 # Signing Information
@@ -41,7 +41,7 @@ If your device is jailbroken you do not need to sign the IPA.
 
 
 
-* {% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 
