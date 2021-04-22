@@ -5,7 +5,8 @@ Please read the following before doing anything:
 
 This app is iOS only.
 
-**FCC + 5.8GHz is available for all Mavic Air 2, Air2S, Mini 2 & Mini drones**
+**FCC is available for all Mavic Air 2, Air2S, Mini 2 & Mini drones**
+**5.8GHz band is also available for countries where it's not permitted to use (Russia, Israel etc)**
 
 **Airsense is only available for Mavic Air 2 drones where the model number ends in 3W**
 
