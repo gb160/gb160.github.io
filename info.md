@@ -30,15 +30,14 @@ You will be entitled to free updates within that 12 months.
 
 The price of the app is £15 (UK/GBR) for a 12 month license.
 
+In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
+
 If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY)
 
-**In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)**
-
+If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
 <a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/paypal.png" height="100" alt="Donate"></a>
 
-
-If you select 'Paying for goods or services' a handling fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
