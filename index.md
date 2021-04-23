@@ -16,7 +16,7 @@
 
 * [Latest installation/update guide]({% link installation_unsigned.md %})
 
-* [Flysign Guide]({% link flysign.md %})
+* [Flysign Installation Guide]({% link flysign.md %})
 
 
 
