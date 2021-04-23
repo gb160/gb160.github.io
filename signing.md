@@ -18,7 +18,8 @@ If your device is jailbroken you do not need to sign the IPA.
 * One such service that many people use is [UDID Registrations](https://www.udidregistrations.com/buy)
 * The silver package is the cheapest package that offers the necessary files to sign and install Mod DJI Fly, however I recommend at least the gold package as it offers protection if your device gets revoked...the platinum package also offers online IPA signing and installation, however I've never used this function so I cannout vouch for it.
 
-## Flysign is a quick, simple online solution for signing and installing Mod DJI Fly...when you have your .mobileprovision .p12 files, and your .p12 password you can follow the FlySign guide [HERE]({% link flysign.md %})
+## Flysign is a quick, simple online solution for signing and installing Mod DJI Fly
+* When you have your .mobileprovision, .p12 files and your .p12 password you can follow the FlySign guide [HERE]({% link flysign.md %})
  
 * **I must point out that I'm not affiliated with UDID Registrations in any way, and I'm not responsible for your experiences with them. I've used their service before and had a positive experience.**
 
