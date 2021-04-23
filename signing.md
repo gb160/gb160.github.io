@@ -1,7 +1,3 @@
----
-youtubeId: Z0mQE90xPa4
----
-
 # Signing Information
 
 **If your iDevice is not jailbroken the IPA must be signed before you can run it, a red flag for an incorrectly signed IPA is the app will crash immediately after launching it.**
