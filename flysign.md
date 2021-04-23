@@ -22,8 +22,10 @@ youtubeId: Z0mQE90xPa4?rel=0
 * The app will now install to your homescreen, installation can take a few minutes so be patient.
 * See below for video of signing/installation using FlySign:
 
+<div class="embed-container">
+     <iframe width="700" height="480" src="https://www.youtube.com/embed/Z0mQE90xPa4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="700" height="480" src="https://www.youtube.com/embed/Z0mQE90xPa4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
    {% include youtubePlayer.html id=page.youtubeId %}
