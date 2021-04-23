@@ -35,7 +35,7 @@ If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECI
 **In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)**
 
 
-<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/PayPal-Button.png" height="100" alt="Donate"></a>
+<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/paypal.png" height="100" alt="Donate"></a>
 
 
 
