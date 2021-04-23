@@ -1,6 +1,6 @@
----
-youtubeId: ZW6Jc_up4MA
----
+
+![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
+
 
 # Information
 
@@ -28,4 +28,3 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 
 
-{% include youtubePlayer.html id=page.youtubeId %}
