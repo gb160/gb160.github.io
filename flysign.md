@@ -1,5 +1,5 @@
 ---
-youtubeId: Z0mQE90xPa4
+youtubeId: Z0mQE90xPa4?rel=0
 ---
 
 ## Flysign Guide
