@@ -4,17 +4,20 @@
 
 # Information
 
-[Purchasing information]({% link info.md %})
+* [Purchasing information]({% link info.md %})
 
 
 # Signing
 
-[Information on signing can be found here]({% link signing.md %})
+* [Information on signing can be found here]({% link signing.md %})
 
 
 # Installation and updating
 
-[Latest installation/update guide]({% link installation_unsigned.md %})
+* [Latest installation/update guide]({% link installation_unsigned.md %})
+
+* [Flysign Guide]({% link flysign.md %})
+
 
 
 # Contact and Support
