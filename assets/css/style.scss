@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
+}
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
