@@ -30,4 +30,5 @@ If any issues or questions arise, then feel free to contact me at:
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDLAtuueoVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
