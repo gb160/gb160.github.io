@@ -1,6 +1,3 @@
-//---
-//youtubeId: Z0mQE90xPa4?rel=0
-//---
 
 ## Flysign Guide
 * **This guide can only be used when you have your '.mobileprovision' and '.p12' files, and your .p12 password... these will all be provided by UDID Registrations or can be retrieved from your apple developer account. If using UDID registrations the p12 password is nearly always '123456'**
@@ -26,6 +23,3 @@
      <iframe width="700" height="480" src="https://www.youtube.com/embed/Z0mQE90xPa4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-
-//   {% include youtubePlayer.html id=page.youtubeId %}
