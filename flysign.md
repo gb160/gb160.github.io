@@ -3,7 +3,7 @@ youtubeId: Z0mQE90xPa4
 ---
 
 ## Flysign Guide
-* **This guide can only be used when you have the files '.mobileprovision', '.p12', and you have the .p12 password, these will all be provided by UDID Registrations or can be retrieved from your apple developer account**
+* **This guide can only be used when you have your '.mobileprovision' and '.p12' files, and your .p12 password... these will all be provided by UDID Registrations or can be retrieved from your apple developer account. If using UDID registrations the p12 password is nearly always '123456'**
 
 * This method is the quickest and easiest way to install the app without a jailbreak, as the signing and installation can be done direct from your iDevice without downloading the .ipa file meaning a Mac/PC isn't required... just transfer/email your .p12 and .mobileprovision files to your iDevice.
 
