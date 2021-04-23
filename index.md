@@ -4,19 +4,19 @@
 
 # Information
 
-* [Purchasing information]({% link info.md %})
+* Purchasing information can be found [HERE]({% link info.md %})
 
 
 # Signing
 
-* [Information on signing can be found here]({% link signing.md %})
+* Signing information can be found [HERE]({% link signing.md %})
 
 
 # Installation and updating
 
-* [Latest installation/update guide]({% link installation_unsigned.md %})
+* Latest installation/update guide can be found [HERE]({% link installation_unsigned.md %})
 
-* [Flysign Installation Guide]({% link flysign.md %})
+* Flysign installation guide can be found [HERE]({% link flysign.md %})
 
 
 
