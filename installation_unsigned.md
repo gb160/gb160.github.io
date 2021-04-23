@@ -2,8 +2,6 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZW6Jc_up4MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### To install on a non-jailbroken device
 
 * Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/uqeau82xmsz7mme/Mod_DJI_Fly_v1.4.0_unsig.ipa?dl=1)
