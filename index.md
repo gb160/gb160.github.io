@@ -29,6 +29,9 @@ If any issues or questions arise, then feel free to contact me at:
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
+# FCC range test on stock battery below
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bDLAtuueoVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-container">
+     <iframe width="700" height="480" src="https://www.youtube.com/embed/bDLAtuueoVU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
