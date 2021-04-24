@@ -4,8 +4,10 @@
 @import "{{ site.theme }}";
 .main-content {
   img { 
-    box-shadow: 20px 20px 20px #1d1c1c; 
-    display:block; 
+  -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
+  filter: drop-shadow(20px 20px 20px #1d1c1c);
+//     box-shadow: 20px 20px 20px #1d1c1c; 
+//     display:block; 
   }  
   
   h1 {
