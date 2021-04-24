@@ -39,7 +39,10 @@ If you select 'Paying for goods or services' a fee to paypal will be charged, in
 
 <a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/paypal.png" height="100" alt="Donate"></a>
 
-
+ 
+ 
+ 
+ 
 
 
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
