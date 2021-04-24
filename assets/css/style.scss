@@ -4,9 +4,7 @@
 @import "{{ site.theme }}";
 .main-content {
   img { 
-    -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
-    filter: drop-shadow(20px 20px 20px #1d1c1c);
-//  box-shadow: 20px 20px 20px #1d1c1c; 
+    box-shadow: 20px 20px 20px #1d1c1c; 
     display:block; 
   }  
   
@@ -54,6 +52,10 @@ body {
 //   width: 50%;
 }
 
+.ds {
+    -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
+    filter: drop-shadow(20px 20px 20px #1d1c1c);
+}
 //ty
 .embed-container {
   position: relative;
