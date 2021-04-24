@@ -26,9 +26,8 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 **You will be issued a login that will activate the app on 1 device for 12 months, any attempt to use one login on multiple devices will result in the account being suspended. Your login will be tied to the first device that you authenticate with the app**
 
-You will be entitled to free updates within that 12 months.
+The price of the app is £15 (UK/GBR) for a 12 month license, you will be entitled to free updates within that 12 months.
 
-The price of the app is £15 (UK/GBR) for a 12 month license.
 
 In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
 
