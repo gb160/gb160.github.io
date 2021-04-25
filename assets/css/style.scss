@@ -16,12 +16,18 @@
 //   }  
   
 .popup {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 	transform: scale(1);
         -webkit-filter: drop-shadow(5px 5px 5px #222);
         filter:         drop-shadow(5px 5px 5px #222); 
 	transition:     drop-shadow 0.5s, transform 0.5s;
 }
 .popup:hover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 	transform: scale(1.3);
         -webkit-filter: drop-shadow(5px 5px 5px #222);
         filter:         drop-shadow(5px 5px 5px #222); 
