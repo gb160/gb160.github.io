@@ -3,11 +3,15 @@
 
 @import "{{ site.theme }}";
 .main-content {
-  img { 
-  -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
-  filter: drop-shadow(20px 20px 20px #1d1c1c);
-//     box-shadow: 20px 20px 20px #1d1c1c; 
-//     display:block; 
+//   img { 
+//   -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
+//   filter: drop-shadow(20px 20px 20px #1d1c1c);
+// //     box-shadow: 20px 20px 20px #1d1c1c; 
+// //     display:block; 
+//   }  
+  img {
+    -webkit-filter: drop-shadow(5px 5px 5px #222 );
+    filter: drop-shadow(5px 5px 5px #222);
   }  
   
   h1 {
