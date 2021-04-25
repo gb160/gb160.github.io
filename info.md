@@ -36,7 +36,7 @@ If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECI
 If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
 
-<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/paypal.png" width="200" alt="Donate" class="popup"></a>
+<a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/paypal.png" width="200" alt="Donate" class="center"></a>
 
  
  
