@@ -17,7 +17,7 @@
 * Tap on the icon below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
 
-<a href="itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/44yr0mizt4vhcgx/v1.4.0.plist"><img src="https://www3.djicdn.com/cms_uploads/download/app/icon/6/4bc58407c5cae24285672f8343882b39.png" size="200"></a>
+<a href="itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/44yr0mizt4vhcgx/v1.4.0.plist"><img src="https://www3.djicdn.com/cms_uploads/download/app/icon/6/4bc58407c5cae24285672f8343882b39.png" height="200"></a>
 
 
 # When the app is installed
