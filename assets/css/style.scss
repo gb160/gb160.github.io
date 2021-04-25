@@ -45,6 +45,8 @@
 }
 
 .popup:hover {
+  -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
+  filter: drop-shadow(20px 20px 20px #1d1c1c);
   -webkit-transform: scale(1.25, 1.25);
   transform: scale(1.25, 1.25);
 }
