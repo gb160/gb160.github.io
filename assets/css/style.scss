@@ -51,7 +51,8 @@
 }
 
 body {
-    background-color: #434b4f;
+    background-image: url({{ site.page-img | relative_url }});
+//     background-color: #434b4f;
 }
 
 .center {
