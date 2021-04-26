@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 ## Flysign Guide
 * **This guide can only be used when you have your '.mobileprovision' and '.p12' files, and your .p12 password... these will all be provided by UDID Registrations or can be retrieved from your apple developer account. If using UDID registrations the p12 password is nearly always '123456'**
 
