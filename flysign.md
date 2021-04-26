@@ -17,7 +17,12 @@
 * * If you are on a PC/Mac, just open the camera on your iDevice and let it focus on the QR Code, then select 'open in iTunes' and agree to the install prompt.
 * * If you are using your iDevice tap and hold the QR Code, then select 'open in iTunes' and agree to the install prompt.
 * The app will now install to your homescreen, installation can take a few minutes so be patient.
-* See below for video of signing/installation using FlySign:
+
+If you experience any issues or get stuck, then let me know:
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email</a>
+
+
+See below for video of signing/installation using FlySign:
 
 <div class="embed-container">
      <iframe width="700" height="480" src="https://www.youtube.com/embed/Z0mQE90xPa4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
