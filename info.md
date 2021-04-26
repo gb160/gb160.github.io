@@ -55,9 +55,7 @@ are very often late/non existent.
 
 If any issues or questions arise, then feel free to contact me:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email Me"><i class="fa fa-envelope-square"></i></a>
+{% include social-media-links.html %}
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
-
-{% include social-media-links.html %}
 
