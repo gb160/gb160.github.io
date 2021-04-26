@@ -39,16 +39,11 @@ If you select 'Paying for goods or services' a fee to paypal will be charged, in
 <a href="https://paypal.me/fccdjifly/15GBP" class="donate"><img src="https://gb160.github.io/paypal.png" width="200" alt="Donate" class="center"></a>
 
  
- 
- 
- 
-
-
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
 
-**Note: If you email me and get no response, please check your spam/junk folder. I respond to every email.**
-**Also please note that many Russian email domains block emails from ProtonMail (because they're encrypted), so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
+**Note: If you email me and get no reply, please check your spam/junk folder. I respond to every email.**
+**Also please note that many Russian email domains block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
 
 
 # Contact and Support
