@@ -58,3 +58,4 @@ If any issues or questions arise, then feel free to contact me:
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
+<a href="mailto:gb160@protonmail.com" title="Email Me"><i class="fa fa-envelope-square"></i></a>
