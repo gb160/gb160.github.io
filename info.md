@@ -42,6 +42,8 @@ If you select 'Paying for goods or services' a fee to paypal will be charged, in
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
 
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email</a>
+
 **Note: If you email me and get no reply, please check your spam/junk folder. I respond to every email.**
 **Also please note that many Russian email domains block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
 
