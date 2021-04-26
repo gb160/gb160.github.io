@@ -23,9 +23,7 @@
 
 # Contact and Support
 
-If any issues or questions arise, then feel free to contact me at:
-
-{% include social-media-links.html %}
+If any issues or questions arise, then feel free to contact me {% include social-media-links.html %}
 
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
