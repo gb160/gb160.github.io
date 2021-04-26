@@ -53,7 +53,7 @@ are very often late/non existent.
 
 # Contact and Support
 
-If any issues or questions arise, then feel free to contact me at:
+If any issues or questions arise, then feel free to contact me:
 
 
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" height="200" title="Email me">Click here to send me an email!</a>
