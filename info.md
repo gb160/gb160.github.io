@@ -44,7 +44,8 @@ If you select 'Paying for goods or services' a fee to paypal will be charged, in
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email</a>
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email</a><a href="mailto:gb160@protonmail.com" title="Email Me"><i class="fa fa-envelope-square"></i></a>
+
 
 **Note: If you email me and get no reply, please check your spam/junk folder. I respond to every email.**
 **Also please note that many Russian email domains block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
@@ -54,7 +55,8 @@ are very often late/non existent.
 
 If any issues or questions arise, then feel free to contact me:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email</a>
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email</a><a href="mailto:gb160@protonmail.com" title="Email Me"><i class="fa fa-envelope-square"></i></a>
+
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
