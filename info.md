@@ -55,7 +55,7 @@ are very often late/non existent.
 
 If any issues or questions arise, then feel free to contact me:
 
-<a href="mailto:gb160@protonmail.com" title="Email Me"><i class="fa fa-envelope-square"></i></a>
+<a href="mailto:gb160@protonmail.com" title="Email Me"><i class="fa fa-envelope-square" height="200"></i></a>
 
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
