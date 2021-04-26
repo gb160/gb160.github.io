@@ -25,7 +25,7 @@
 
 If any issues or questions arise, then feel free to contact me:
 
-<a href="mailto:gb160@protonmail.com" title="Email Me"><i class="fa fa-envelope-square" style="font-size: 44px;"></i></a>
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" <i class="fa fa-envelope-square" style="font-size: 44px;"></i></a>
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
