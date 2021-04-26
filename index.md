@@ -37,4 +37,3 @@ Use this software at your own risk, we accept no responsibility for any damage c
 </div>
 
 
-{% include social-media-links.html %}
