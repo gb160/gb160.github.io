@@ -57,4 +57,7 @@ If any issues or questions arise, then feel free to contact me at:
 
 [gb160@protonmail.com](mailto:gb160@protonmail.com)
 
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" height="200" title="Email me">Click here to send me an email!</a>
+
+
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
