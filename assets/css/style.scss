@@ -52,12 +52,24 @@
 
 }
 
+// body {
+//   background-color: #434b4f;
+//   {% if site.page-img %}
+//   background-image: url({{ site.page-img | relative_url }});
+//   background-attachment: fixed;
+//   {% endif %}    
+// }
+
 body {
-  background-color: #434b4f;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 1.125rem;
+  color: {{ site.text-col | default: "#404040" }};
+  position: relative;
+  background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
-  {% endif %}    
+  {% endif %}
 }
 
 .center {
