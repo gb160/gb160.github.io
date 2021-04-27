@@ -48,7 +48,7 @@
     text-align: center;
 //     background-color: #fff;
 //     background-image:linear-gradient(120deg, #90aebd, #000000);
-    background-image: "bg.jpg"
+    background-image: url({{ site.header-img | relative_url }});
 
 }
 
