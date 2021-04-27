@@ -4,7 +4,8 @@ description: Auto-enabled FCC for Mavic Air 2, Air2S, Mini2 & Mavic Mini, + Airs
 github:
     is_project_page: false
 
-background: pop-bg.jpg
+image:
+    background: pop-bg.jpg
 
 # page-img: "/assets/img/bg.jpg"
 
