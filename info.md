@@ -40,7 +40,8 @@ If you select 'Paying for goods or services' a fee to paypal will be charged, in
 
 <a href="https://paypal.me/fccdjifly/15GBP"> <i class="fa fa-paypal" style="font-size: 66px;"></i></a>
 
- 
+<a href="https://www.dropbox.com/s/uqeau82xmsz7mme/Mod_DJI_Fly_v1.4.0_unsig.ipa?dl=1"> <i class='fab fa-dropbox fa-spin fa-3x'></i></a>
+
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
 
