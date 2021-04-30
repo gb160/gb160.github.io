@@ -19,7 +19,7 @@
 
 If you experience any issues or get stuck, then let me know:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}"> <i class="fa fa-envelope-square" style="font-size: 44px;"></i></a>
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
 
 
 See below for video of signing/installation using FlySign:
