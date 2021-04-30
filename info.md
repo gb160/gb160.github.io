@@ -48,13 +48,10 @@ are very often late/non existent.
 
 # Contact and Support
 
-If any issues or questions arise, then feel free to email me:
-
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}"> <i class="fa fa-envelope-square" style="font-size: 66px;"></i></a>
+If any issues or questions arise, then feel free to email support:
 
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
 
-<a href="{{ site.dropbox_url }}" class="btn">Download latest ipa</a>
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
