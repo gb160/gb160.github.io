@@ -1,15 +1,15 @@
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
 
 
-# Information
+# Purchasing Information
 
-<a href="{{ link ./info.md}}" class="btn">Purchasing information can be found here</a>
+<a href="{{ link ./info.md | relative_url }}" class="btn">Purchasing information can be found here</a>
 
 
 
 # Signing
 
-<a href="{{ link ./signing.md}}" class="btn">Signing information can be found here</a>
+<a href="{{ link ./signing.md }}" class="btn">Signing information can be found here</a>
 
 
 # Installation Guides
