@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 # Signing Information
 
 **If your iDevice is not jailbroken the IPA must be signed before you can run it, a red flag for an incorrectly signed IPA is the app will crash immediately after launching it.**
