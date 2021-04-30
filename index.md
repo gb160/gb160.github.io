@@ -3,20 +3,20 @@
 
 # Purchasing Information
 
-<a href="{{ link info.md | relative_url }}" class="btn">Purchasing information can be found here</a>
+* Purchasing information can be found [HERE]({% link info.md %})
 
 
 
 # Signing
 
-<a href="{{ link ./signing.md }}" class="btn">Signing information can be found here</a>
+* Signing information can be found [HERE]({% link signing.md %})
 
 
 # Installation Guides
 
-<a href="{{ link ./installation_unsigned.md}}" class="btn">Latest installation/update guide can be found here</a>
+* Latest installation/update guide can be found [HERE]({% link installation_unsigned.md %})
 
-<a href="{{ link ./flysign.md}}" class="btn">Flysign installation guide can be found here</a>
+* Flysign installation guide can be found [HERE]({% link flysign.md %})
 
 
 
