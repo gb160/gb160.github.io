@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
 
 
