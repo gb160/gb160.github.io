@@ -14,9 +14,9 @@
 
 # Installation Guides
 
-<a href="{{ link info.md}}" class="btn">Latest installation/update guide can be found here</a>
+<a href="{{ link installation_unsigned.md}}" class="btn">Latest installation/update guide can be found here</a>
 
-<a href="{{ link installation_unsigned.md}}" class="btn">Flysign installation guide can be found here</a>
+<a href="{{ link flysign.md}}" class="btn">Flysign installation guide can be found here</a>
 
 
 
