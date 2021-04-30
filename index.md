@@ -3,7 +3,7 @@
 
 # Purchasing Information
 
-<a href="{{ link ./info.md | relative_url }}" class="btn">Purchasing information can be found here</a>
+<a href="{{ link info.md | relative_url }}" class="btn">Purchasing information can be found here</a>
 
 
 
