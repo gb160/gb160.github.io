@@ -56,7 +56,9 @@
 
 
 body {
-  background-color: #434b4f;
+//   background-color: #434b4f;
+    background-color: #fff;
+    background-image:linear-gradient(120deg, #90aebd, #000000);
 //   {% if site.page-img %}
 //   background-image: url({{ site.page-img | relative_url }});
 //   background-attachment: fixed;
