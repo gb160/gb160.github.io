@@ -11,40 +11,40 @@
 //   }  
 
   img {
-    -webkit-filter: drop-shadow(5px 5px 5px #222 );
-    filter: drop-shadow(5px 5px 5px #222)
+    -webkit-filter: drop-shadow(5px 9px 10px #000 );
+    filter: drop-shadow(5px 9px 10px #000)
   }  
   
 
 	
   h1 {
    color: #fff;
-   text-shadow: 2px 2px 5px #000;   
+   text-shadow: 5px 9px 10px #000;   
  }
   h2 {
    color: #fff;
-   text-shadow: 2px 2px 5px #000;   
+   text-shadow: 5px 9px 10px #000;   
  }
   h3 {
    color: #fff;
-   text-shadow: 2px 2px 5px #000;   
+   text-shadow: 5px 9px 10px #000;   
  }
   p {
    color: #fff;
-   text-shadow: 2px 2px 5px #000;   
+   text-shadow: 5px 9px 10px #000;   
  }
   li {
    color: #fff;
-   text-shadow: 2px 2px 5px #000;   
+   text-shadow: 5px 9px 10px #000;   
  }
   a {
    color: #90aebd;
-   text-shadow: 2px 2px 5px #000;   
+   text-shadow: 5px 9px 10px #000;   
  }
 }
 .page-header {
     color: #fff;
-    text-shadow: 2px 2px 5px #000;   
+    text-shadow: 5px 9px 10px #000;   
     text-align: center;
     background-color: #000;
 //     background-image:linear-gradient(120deg, #90aebd, #000000);
@@ -87,7 +87,7 @@ body {
   height: 0;
   overflow: hidden;
   max-width: 100%;
-  box-shadow: 5px 5px 5px #222; 
+  box-shadow: 5px 9px 10px #000; 
   display:block; 
 }
 
@@ -97,7 +97,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  box-shadow: 5px 5px 5px #222; 
+  box-shadow: 5px 9px 10px #000; 
   display:block; 
 }
 
