@@ -54,6 +54,7 @@ If any issues or questions arise, then feel free to email me:
 
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
 
+<a href="{{ site.dropbox_url }}" class="btn">Download latest ipa</a>
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
