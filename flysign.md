@@ -17,7 +17,7 @@
 * * If you are using your iDevice tap and hold the QR Code, then select 'open in iTunes' and agree to the install prompt.
 * The app will now install to your homescreen, installation can take a few minutes so be patient.
 
-If you experience any issues or get stuck, then let me know:
+If you experience any issues or get stuck, then feel free to contact support:
 
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
 
