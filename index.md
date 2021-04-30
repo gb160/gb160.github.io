@@ -3,20 +3,20 @@
 
 # Information
 
-<a href="{{ link info.md}}" class="btn">Purchasing information can be found here</a>
+<a href="{{ site.baseurl }}{{ link info.md}}" class="btn">Purchasing information can be found here</a>
 
 
 
 # Signing
 
-<a href="{{ link signing.md}}" class="btn">Signing information can be found here</a>
+<a href="{{ site.baseurl }}{{ link signing.md}}" class="btn">Signing information can be found here</a>
 
 
 # Installation Guides
 
-<a href="{{ link installation_unsigned.md}}" class="btn">Latest installation/update guide can be found here</a>
+<a href="{{ site.baseurl }}{{ link installation_unsigned.md}}" class="btn">Latest installation/update guide can be found here</a>
 
-<a href="{{ link flysign.md}}" class="btn">Flysign installation guide can be found here</a>
+<a href="{{ site.baseurl }}{{ link flysign.md}}" class="btn">Flysign installation guide can be found here</a>
 
 
 
