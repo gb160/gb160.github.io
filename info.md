@@ -48,7 +48,7 @@ are very often late/non existent.
 
 # Contact and Support
 
-If any issues or questions arise, then feel free to email support:
+If any issues or questions arise, then feel free to contact support:
 
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
 
