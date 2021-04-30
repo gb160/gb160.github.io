@@ -25,5 +25,8 @@ If you have more than one device registered with us (some people have multiple d
 
 **Sharing logins will result in your account being banned**
 
-Any issues/questions then just let me know/ask
+Any issues/questions then feel free to contact support:
+
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
+
 
