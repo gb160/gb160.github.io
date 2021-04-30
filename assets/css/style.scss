@@ -51,10 +51,7 @@
     background-image: url({{ site.page-img | relative_url }});
     background-size: cover;
     background-position: right;
-
-@include small {
-    padding: 2rem 1rem;
-  }	
+	
 }
 
 
