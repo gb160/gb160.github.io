@@ -3,7 +3,8 @@
 
 # Information
 
-* Purchasing information can be found [HERE]({% link info.md %})
+* Purchasing information can be found <a href="{{ link info.md}}" class="btn">here</a>
+
 
 
 # Signing
