@@ -3,7 +3,7 @@
 
 # Information
 
-* Purchasing information can be found <a href="{{ link info.md}}" class="btn">here</a>
+* <a href="{{ link info.md}}" class="btn">Purchasing information can be found here</a>
 
 
 
