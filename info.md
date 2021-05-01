@@ -36,8 +36,7 @@ If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECI
 If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
 
-<a href="{{ site.paypal_url }}" class="btn">Puchase with PayPal</a>
-
+{% include button_paypal.html %}
 
 Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
 are very often late/non existent.
@@ -50,7 +49,7 @@ are very often late/non existent.
 
 If any issues or questions arise, then feel free to contact support:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
+{% include button_email.html %}
 
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
