@@ -4,7 +4,8 @@
 
 ### To install on a non-jailbroken device
 
-* Download the ipa on your Mac/PC from: [Dropbox link](https://www.dropbox.com/s/uqeau82xmsz7mme/Mod_DJI_Fly_v1.4.0_unsig.ipa?dl=1)
+* Download the ipa on your Mac/PC from: {% include button_dropbox.html %}
+
 
 * Then sign and install manually.
 * [Information on signing can be found here]({% link signing.md %})
@@ -49,5 +50,5 @@ If you have more than one device registered with us (some people have multiple d
 
 Any issues/questions then feel free to contact support:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
+{% include button_email.html %}
 
