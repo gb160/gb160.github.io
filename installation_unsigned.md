@@ -4,7 +4,7 @@
 
 ### To install on a non-jailbroken device
 
-* {% include button_dropbox.html %}
+* {% include button_dropbox_small.html %}
 * Then sign and install manually.
 * [Information on signing can be found here]({% link signing.md %})
 
