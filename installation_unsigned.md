@@ -5,7 +5,7 @@
 ### To install on a non-jailbroken device
 
 * Download the ipa on your Mac/PC
-* {% include button_dropbox.html %}
+{% include button_dropbox.html %}
 * Then sign and install manually.
 * [Information on signing can be found here]({% link signing.md %})
 
