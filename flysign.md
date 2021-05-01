@@ -19,8 +19,7 @@
 
 If you experience any issues or get stuck, then feel free to contact support:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
-
+{% include button_email.html % }
 
 See below for video of signing/installation using FlySign:
 
