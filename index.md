@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+navigation_weight: 1
+---
+
+
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
 
 
