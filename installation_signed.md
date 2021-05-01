@@ -27,6 +27,7 @@ If you have more than one device registered with us (some people have multiple d
 
 Any issues/questions then feel free to contact support:
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" class="btn">email support</a>
+{% include button_email.html %}
+
 
 
