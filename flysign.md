@@ -19,7 +19,7 @@
 
 If you experience any issues or get stuck, then feel free to contact support:
 
-{% include button_email.html % }
+{% include button_email.html %}
 
 See below for video of signing/installation using FlySign:
 
