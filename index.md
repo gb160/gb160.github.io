@@ -4,7 +4,7 @@
 
 # Purchasing Information
 
-{% include button_info_purchase.html %}
+{% include button_info_purchasing.html %}
 
 
 # Signing
