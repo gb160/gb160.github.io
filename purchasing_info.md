@@ -1,7 +1,6 @@
-# Information
+# Purchasing Information
 
-
-Please read the following before doing anything:
+**It is presumed if you purchase this app you have read and understood the following:**
 
 This app is iOS only.
 
