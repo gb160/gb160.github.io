@@ -12,7 +12,7 @@ This app is iOS only.
 
 **YOU MUST ARRANGE APP SIGNING YOURSELF**
 
-**Further information on signing can be found [HERE]({% link signing.md %})**
+**Further information on signing can be found [HERE]({% link info_signing.md %})**
 
 **By purchasing the app it is presumed that you know how to sign the app and install on your device.**
 
