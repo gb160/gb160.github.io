@@ -5,6 +5,8 @@
 # Purchasing Information
 
 * Purchasing information can be found [HERE]({% link info.md %})
+      <a class="btn" href="{{ % link info.md % }}">
+        <i class="fab fa-dropbox"></i> Purchasing information can be found here</a>
 
 
 
@@ -25,7 +27,7 @@
 
 If any issues or questions arise, then feel free to contact support:
 
-*{% include button_email.html %}
+{% include button_email.html %}
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
