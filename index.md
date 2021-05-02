@@ -4,9 +4,7 @@
 
 # Purchasing Information
 
- <a class="btn" href="./info.md">
-   <i class="fab fa-paypal"></i>  Purchasing information can be found here</a>
-
+{% include button_info_purchase.html %}
 
 
 # Signing
