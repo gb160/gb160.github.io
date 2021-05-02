@@ -9,7 +9,7 @@
 
 # Signing
 
-* Signing information can be found [HERE]({% link signing.md %})
+{% include button_info_signing.html %}
 
 
 # Installation Guides
