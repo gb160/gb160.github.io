@@ -5,7 +5,7 @@
 # Purchasing Information
 
  <a class="btn" href="./info.md">
-   <i class="fab fa-dropbox"></i> Purchasing information can be found here</a>
+   <i class="fab fa-paypal"></i> Purchasing information can be found here</a>
 
 
 
