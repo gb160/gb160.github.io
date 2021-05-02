@@ -5,8 +5,9 @@
 # Purchasing Information
 
 * Purchasing information can be found [HERE]({% link info.md %})
-      <a class="btn" href="{{ % link info.md % }}">
-        <i class="fab fa-dropbox"></i> Purchasing information can be found here</a>
+
+<a class="btn" href="{{ % link info.md % }}">
+  <i class="fab fa-dropbox"></i> Purchasing information can be found here</a>
 
 
 
