@@ -16,6 +16,7 @@
 
 {% include button_guide_installation.html %}
 
+{% include button_guide_flysign.html %}
 
 
 # Contact and Support
