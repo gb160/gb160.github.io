@@ -4,7 +4,7 @@
 
 # Purchasing Information
 
- <a class="btn" href="{{ link info.md }}">
+ <a class="btn" href="{{ info.html | relative_url }}">
    <i class="fab fa-dropbox"></i> Purchasing information can be found here</a>
 
 
