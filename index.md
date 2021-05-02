@@ -16,7 +16,7 @@
 
 * Latest installation/update guide can be found [HERE]({% link installation_unsigned.md %})
 
-* Flysign installation guide can be found [HERE]({% link flysign.md %})
+* Flysign installation guide can be found [HERE]({% link installation_flysign.md %})
 
 
 
