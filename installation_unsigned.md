@@ -6,7 +6,7 @@
 
 * {% include button_dropbox.html %}
 * Then sign and install manually.
-* [Information on signing can be found here]({% link signing.md %})
+* [Information on signing can be found here]({% link info_signing.md %})
 
 ### To install on a jailbroken device
 
