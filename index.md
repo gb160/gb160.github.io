@@ -18,7 +18,6 @@
 
 
 
-
 # Contact and Support
 
 If any issues or questions arise, then feel free to contact support:
