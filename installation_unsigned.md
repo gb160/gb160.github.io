@@ -2,14 +2,14 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
-### To install on a non-jailbroken device
+# To install on a non-jailbroken device
 
 {% include button_dropbox.html %}
 
 * Then sign and install manually.
 * [Information on signing can be found here]({% link info_signing.md %})
 
-### To install on a jailbroken device
+# To install on a jailbroken device
 
 **Make sure you have installed the package 'appsync unified' via Cydia from the official repo (https://cydia.akemi.ai)**
 
