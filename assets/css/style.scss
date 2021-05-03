@@ -90,6 +90,7 @@ body {
 .btn {
     box-shadow: 3px 3px 6px #000;
     border-color: chartreuse;
+    transition: .2s ease-in-out 0s;
 }
 
 
@@ -97,6 +98,8 @@ body {
     box-shadow: 3px 3px 6px #000;
     border-color: aqua;
     background-color: transparent;
+    transform: scale(1.25);
+
 }
 
 //ty
