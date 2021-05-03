@@ -3,7 +3,8 @@
 $body-link-color: #a7a1a1 !default;
 
 @import "{{ site.theme }}";
-.main-content {} 
+.main-content {
+  {}
   img {
   -webkit-filter: drop-shadow(3px 3px 6px #000 );
   filter: drop-shadow(3px 3px 6px #000);
@@ -28,7 +29,7 @@ $body-link-color: #a7a1a1 !default;
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
  }
-
+}
 
 .page-header {
     color: #fff;
