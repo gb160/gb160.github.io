@@ -6,7 +6,7 @@
 
 {% include button_dropbox.html %}
 
-{% include button_info_signing %}
+{% include button_info_signing.html %}
 
 # To install on a jailbroken device
 
