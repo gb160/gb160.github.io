@@ -4,20 +4,20 @@
 
 # To install on a non-jailbroken device
 
-{% include button_dropbox_indent.html %}
+{% include button_dropbox.html %}{: .btn_indent}
 
-{% include button_info_signing.html %}{: .btn2}
+{% include button_info_signing.html %}{: .btn_indent}
 
 # To install on a jailbroken device
 
-**Make sure you have installed the package 'appsync unified' via Cydia from the official repo (https://cydia.akemi.ai)**
+* Make sure you have installed the package 'appsync unified' via Cydia from the official repo (https://cydia.akemi.ai)
 
-* {% include button_cydia.html %}
+{% include button_cydia.html %}{: .btn_indent}
 
 * Tap on the button below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
 
-* {% include button_jailbreak_install.html %}
+{% include button_jailbreak_install.html %}{: .btn_indent}
 
 # When the app is installed
 
