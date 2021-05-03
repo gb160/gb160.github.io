@@ -4,13 +4,10 @@ description: Auto-enabled FCC for Mavic Air 2, Air2S, Mini2 & Mavic Mini, + Airs
 github:
     is_project_page: false
 
-# image:
-#     background: pop-bg.jpg
 
-page-img: "/assets/img/bg.jpg"
+# header background
+header-img: "/assets/img/bg.jpg"
 
-# social-network-links:
-#   email: "gb160@protonmail.com"
 
 current_version: "v1.4.0"
 
@@ -22,6 +19,7 @@ jailbreak_install_url:  "itms-services://?action=download-manifest&amp;url=https
 appbox_url:             "https://tiny.app.link/bj10sx6TLfb"
 
 
+# email stuff
 email:
   id: 'gb160@protonmail.com?subject=Mod DJI Fly'
   href: 'mailto:'
