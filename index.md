@@ -4,7 +4,7 @@
 
 * **Unlock 5.8 GHz band in restricted locations (Russia, Israel, etc)**
 
-* **Unlock Airsense (ADSB) on Mavic Air 2 drones (where model number ends with '3W')**
+* **Unlock Airsense (ADSB) on Mavic Air 2 drones (where the model number ends with '3W')**
 
 
 
