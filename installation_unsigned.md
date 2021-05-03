@@ -15,8 +15,6 @@
 
 {% include button_cydia.html %}
 
-**[Tap here to add the repo to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/)**
-
 * Tap on the icon below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
 
