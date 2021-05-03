@@ -4,7 +4,7 @@
 
 # To install on a non-jailbroken device
 
-* {% include button_dropbox.html %}
+{% include button_dropbox.html %}
 
 * {% include button_info_signing.html %}
 
