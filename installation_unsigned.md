@@ -1,4 +1,4 @@
-# Unsigned Installation
+# Installation
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
