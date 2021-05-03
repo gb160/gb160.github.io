@@ -4,7 +4,6 @@ $body-link-color: #a7a1a1 !default;
 
 @import "{{ site.theme }}";
 .main-content {
-
   img {
     -webkit-filter: drop-shadow(3px 3px 6px #000 );
     filter: drop-shadow(3px 3px 6px #000)
@@ -12,23 +11,23 @@ $body-link-color: #a7a1a1 !default;
   h1 {
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
- }
+  }
   h2 {
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
- }
+  }
   h3 {
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
- }
+  }
   p {
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
- }
+  }
   li {
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
- }
+  }
 }
 
 .page-header {
@@ -36,13 +35,9 @@ $body-link-color: #a7a1a1 !default;
     text-shadow: 3px 3px 6px #000;   
     text-align: center;
     background-color: #000;
-//     background-image:linear-gradient(120deg, #90aebd, #000000);
     background-image: url({{ site.header-img | relative_url }});
     background-size: cover;
-    background-position: right;
-	
-//     padding: 0
-	
+    background-position: right;	
 }
 
 .project-name {
@@ -54,7 +49,6 @@ $body-link-color: #a7a1a1 !default;
 }
 
 body {
-//   background-color: #434b4f;
     background-color: #fff;
     background-image: linear-gradient(137deg, #000, #8c9090);
 	
@@ -69,9 +63,6 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-//   -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
-//   filter: drop-shadow(20px 20px 20px #1d1c1c);
-//   width: 50%;
 }
 
 
@@ -119,36 +110,3 @@ body {
   box-shadow: 3px 3px 6px #000; 
   display:block; 
 }
-
-
-// //nav stuff
-
-
-// .topnav {
-//   overflow: hidden;
-//   height: 100px;
-// //   background-color: #333;
-// }
-
-// .topnav a {
-//   float: left;
-//   color: #f2f2f2;
-//   text-align: center;
-//   padding: 14px 16px;
-//   text-decoration: none;
-//   font-size: 17px;
-// }
-
-// .topnav a:hover {
-//   background-color: #ddd;
-//   color: black;
-// }
-
-// .topnav a.active {
-//   background-color: #04AA6D;
-//   color: white;
-// }
-
-// .topnav-right {
-//   float: right;
-// }
