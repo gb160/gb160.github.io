@@ -1,8 +1,8 @@
 # Features
 
-* Unlock full FCC power to increases signal strength and range considerably
-* Unlock 5.8 GHz band in restricted locations (Russia, Israel, etc)
-* Unlock Airsense (ADSB) on Mavic Air 2 drones (where model number ends with '3W')
+* **Unlock full FCC power to increases signal strength and range considerably
+* **Unlock 5.8 GHz band in restricted locations (Russia, Israel, etc)
+* **Unlock Airsense (ADSB) on Mavic Air 2 drones (where model number ends with '3W')
 
 
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
