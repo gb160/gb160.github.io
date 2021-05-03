@@ -1,3 +1,9 @@
+# Features
+
+* Use your drone with full FCC power
+* Increases signal and range considerably
+* Unlock 5.8 GHz band in restricted locations (Russia, Israel, etc)
+
 
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
 
