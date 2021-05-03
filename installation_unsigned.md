@@ -17,7 +17,7 @@
 * Tap on the button below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
 
-* {% include button_jailbreak_install.html %}
+{% include button_jailbreak_install.html %}
 
 # When the app is installed
 
