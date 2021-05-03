@@ -20,3 +20,10 @@ paypal_url:             "https://paypal.me/fccdjifly/15GBP"
 cydia_url:              "cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/"
 jailbreak_install_url:  "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/44yr0mizt4vhcgx/v1.4.0.plist"
 appbox_url:             "https://tiny.app.link/bj10sx6TLfb"
+
+
+email:
+  id: 'gb160@protonmail.com?subject=Mod DJI Fly'
+  href: 'mailto:'
+  title: 'Email Me'
+  fa-icon: 'fa-envelope-square'
