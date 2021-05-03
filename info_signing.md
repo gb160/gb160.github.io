@@ -8,7 +8,7 @@ If your device is jailbroken you do not need to sign the IPA.
 
 ## UDID Registrations and Flysign
 * UDID Registrations can provide you with the necessary files to sign the IPA for 12 months. This effectively gives you the benefits of using an Apple developer certificate at a much smaller cost.
-* The silver package is the cheapest package that offers the necessary files to sign and install Mod DJI Fly, however I recommend at least the gold package as it offers protection if your device gets revoked.
+* The silver package is the cheapest package that offers the necessary files to sign and install Mod DJI Fly, however I recommend the gold package as it offers protection if your device gets revoked.
 * You can register your device with UDID Registrations [HERE](https://www.udidregistrations.com/buy)
 * When you receive the email from UDID Registrations after registering your iDevice, select 'view your order', and then select 'Certificate and Provisioning Files'...download these 2 files somewhere easy to find. This can be done either from your Mac/PC, or direct from your iDevice. At this point you can use Flysign which is a quick simple online solution that will sign and install Mod DJI Fly direct to your iDevice. 
 * **I must point out that I'm not affiliated with UDID Registrations in any way and I'm not responsible for your experiences with them, however I currently use their service and have experienced zero problems.**
