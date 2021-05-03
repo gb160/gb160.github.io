@@ -2,9 +2,9 @@
 
 **If your iDevice is not jailbroken the IPA must be signed before you can run it, a red flag for an incorrectly signed IPA is the app will crash immediately after launching it.**
 
-If your device is jailbroken you do not need to sign the IPA.
-
 **If you are new to this the current recommended signing and installation method is to use UDID Registrations to register your device, and then Flysign to sign and install the app to your device. It's simple, quick, and gets you up and running with the least hassle.**
+
+If your device is jailbroken you do not need to sign the IPA.
 
 
 ## UDID Registrations and Third Party App signing 
