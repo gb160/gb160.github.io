@@ -2,7 +2,9 @@
 
 **Remember this ipa is not signed, if your iDevice is not jailbroken YOU have to sign the app before you can install it.**
 
-# To install on a non-jailbroken device  {% include button_dropbox.html %}
+# To install on a non-jailbroken device
+
+  {% include button_dropbox.html %}
 
   {% include button_info_signing.html %}
 
