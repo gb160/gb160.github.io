@@ -12,7 +12,7 @@
 
 **Make sure you have installed the package 'appsync unified' via Cydia from the official repo (https://cydia.akemi.ai)**
 
-{% include button_cydia.html %}
+* {% include button_cydia.html %}
 
 * Tap on the button below to begin installation, agree to the installation prompt, then return to your homescreen and observe the installation progress.
 * Note: Installation can take a couple of minutes as the app is quite large, so be patient. The app icon will turn from black to light grey when installation is complete.
