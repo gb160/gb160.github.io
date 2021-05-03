@@ -16,7 +16,7 @@ If your device is jailbroken you do not need to sign the IPA.
 ## Flysign is a quick, simple online solution for signing and installing Mod DJI Fly
 * When you have your .mobileprovision, .p12 files and your .p12 password you can follow the FlySign guide:
 
-* {%include button_guide_flysign.html %}
+{%include button_guide_flysign.html %}{: .btn_indent}
 
 ## Apple Developer
 * IPAs can be signed with an Apple developer certificate.
