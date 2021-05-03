@@ -27,12 +27,11 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 The price of the app is £15 (UK/GBR) for a 12 month license, you will be entitled to free updates within that 12 months.
 
+If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
 In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
 
-If none of this is a problem then tap the icon below to Paypal £15 UK/GBR (RECIPIENT RECEIVES, AS FRIENDS AND FAMILY)
-
-If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
+If none of this is a problem then tap the button below to Paypal £15 UK/GBR
 
 {% include button_paypal.html %}
 
