@@ -1,14 +1,24 @@
+
 ---
 ---
 $body-link-color: #a7a1a1 !default;
 
 @import "{{ site.theme }}";
 .main-content {
-}
+//   img { 
+//   -webkit-filter: drop-shadow(20px 20px 20px #1d1c1c);
+//   filter: drop-shadow(20px 20px 20px #1d1c1c);
+// //     box-shadow: 20px 20px 20px #1d1c1c; 
+// //     display:block; 
+//   }  
+
   img {
-  -webkit-filter: drop-shadow(3px 3px 6px #000 );
-  filter: drop-shadow(3px 3px 6px #000);
- }    	
+    -webkit-filter: drop-shadow(3px 3px 6px #000 );
+    filter: drop-shadow(3px 3px 6px #000)
+  }  
+  
+
+  
   h1 {
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
@@ -29,7 +39,11 @@ $body-link-color: #a7a1a1 !default;
    color: #fff;
    text-shadow: 3px 3px 6px #000;   
  }
-
+//   a {
+//    color: #90aebd;
+//    text-shadow: 3px 3px 6px #000;   
+//  }
+}
 
 .page-header {
     color: #fff;
