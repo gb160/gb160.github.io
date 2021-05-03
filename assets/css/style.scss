@@ -89,9 +89,27 @@ body {
 
 .btn {
     box-shadow: 3px 3px 6px #000;
-//     color: rgba(255,255,255,0.7);
-//     text-shadow: 0px 0px 0px #000;   
+    border-color: chartreuse;
+    transition: .2s ease-in-out 0s;
 }
+
+
+.btn:hover {
+    box-shadow: 3px 3px 6px #000;
+    border-color: aqua;
+    background-color: transparent;
+    transform: scale(1.15);
+}
+
+.btn_indent {
+    padding-left: 40px;
+}
+
+
+.btn_indent:hover {
+    padding-left: 40px;
+}
+
 
 //ty
 .embed-container {
