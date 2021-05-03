@@ -13,8 +13,9 @@ page-img: "/assets/img/bg.jpg"
 #   email: "gb160@protonmail.com"
 
 current_version: "v1.4.0"
+
+#URLs
 dropbox_url: "https://www.dropbox.com/s/uqeau82xmsz7mme/Mod_DJI_Fly_v1.4.0_unsig.ipa?dl=1"
 paypal_url: "https://paypal.me/fccdjifly/15GBP"
+cydia_url: "cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/"
 
-# social-network-links:
-#   email: "gb160@protonmail.com"
