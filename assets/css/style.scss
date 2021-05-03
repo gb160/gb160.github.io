@@ -103,6 +103,23 @@ body {
     transform: scale(1.15);
 }
 
+.btn2 {
+    box-shadow: 3px 3px 6px #000;
+    border-color: chartreuse;
+    transition: .2s ease-in-out 0s;
+    padding-left: 40px;
+}
+
+
+.btn2:hover {
+    box-shadow: 3px 3px 6px #000;
+    border-color: aqua;
+    background-color: transparent;
+    transform: scale(1.15);
+    padding-left: 40px;
+}
+
+
 
 //ty
 .embed-container {
