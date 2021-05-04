@@ -23,15 +23,15 @@ url_appbox:               "https://tiny.app.link/bj10sx6TLfb"
 
 #button icons
 icon_appbox:              "fas fa-box"
-icon_cydia:               ""
-icon_dropbox:             ""
-icon_email:               ""
-icon_guide_flysign:       ""
-icon_guide_installation:  ""
-icon_info_purchasing:     ""
-icon_info_signing:        ""
-icon_jailbreak_install:   ""
-icon_paypal:              ""
+icon_cydia:               "fas fa-plus"
+icon_dropbox:             "fab fa-dropbox"
+icon_email:               "fas fa-envelope"
+icon_guide_flysign:       "fas fa-plane-departure"
+icon_guide_installation:  "fas fa-toolbox"
+icon_info_purchasing:     "fab fa-paypal"
+icon_info_signing:        "fas fa-edit"
+icon_jailbreak_install:   "fas fa-arrow-circle-down"
+icon_paypal:              "fab fa-paypal"
 
 
 
