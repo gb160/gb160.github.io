@@ -4,7 +4,7 @@
 
 **If you are new to this, the current recommended signing and installation method is to use UDID Registrations to register your device, and then Flysign to sign and install the app to your device.  It's simple, quick, gets you up and running with the least hassle, and the app stays signed for 12 months**
 
-If your device is jailbroken you do not need to sign the IPA.
+If your device is jailbroken you do not need to sign the app.
 
 ## UDID Registrations and Flysign
 * UDID Registrations can provide you with the necessary files to sign the app for 12 months. This effectively gives you the benefits of using an Apple developer certificate at a much smaller cost.
