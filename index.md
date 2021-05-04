@@ -1,11 +1,14 @@
-# Features
+# Supported DJI Drones
 
-* **Unlock full FCC power to increase signal strength and range considerably**
+* **Mavic Air 2**
 
-* **Unlock 5.8 GHz band in restricted locations (Russia, Israel, etc)**
+* **Air 2S**
 
-* **Unlock Airsense (ADSB) on Mavic Air 2 drones (where the model number ends with '3W')**
+* **Mini 2**
 
+* **Mavic Mini**
+
+* **Airsense (ADSB) for Mavic Air 2 where model number ends in '3W'**
 
 
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
