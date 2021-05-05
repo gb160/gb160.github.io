@@ -1,4 +1,4 @@
-{% include button_anchor_contact-and-support.html %}
+<!-- {% include button_anchor_contact-and-support.html %} -->
 # Supported DJI Drones
 
 * **Mavic Air 2**
