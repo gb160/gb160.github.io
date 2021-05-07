@@ -42,7 +42,9 @@ When your payment is complete please send an email using the button below so i c
 {% include button_email.html %}
 
 **You will receive your login and installation instruction via the email address you provide**
+
 **If you complete your purchase and get no reply, please check your spam/junk folder**
+
 **Also please note that many Russian email domains (mail.ru etc) block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine**
 
 
@@ -60,7 +62,7 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 ## To Purchase with Bitcoin or Etherium, use the button below:
 
-{% include button_crypto.html %}
+* {% include button_crypto.html %}
 
 
 ## To Purchase with Paypal or Credit/Debit card, use the options below:
