@@ -70,7 +70,7 @@ Use this software at your own risk, we accept no responsibility for any damage c
         <div id="paypal-button-container"></div>
       </div>
     </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=GBP" data-sdk-integration-source="button-factory"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=AZ8aHkOGwVAwNrk4hoUkKXLXw7d-rmlHXSLEu9s1DSGeM1B3Vx-8EXGynqJrqmgLSdD8Gk9_ZIt76Yke&currency=GBP" data-sdk-integration-source="button-factory"></script>
   <script>
     function initPayPalButton() {
       paypal.Buttons({
