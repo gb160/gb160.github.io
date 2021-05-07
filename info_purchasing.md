@@ -27,19 +27,23 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 The price of the app is £15 (UK/GBR) for a 12 month license, you will be entitled to free updates within that 12 months.
 
-If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
-
 In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
 
-If none of this is a problem then tap the button below to Paypal £15 UK/GBR
+**We now accept payment via Paypal, Bitcoin or Ethereum**
 
-{% include button_paypal.html %}
+Paypal Note: If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
-Please put your email address in the PayPal reference so I know who you are, and send me a quick email confirming your payment has been made, PayPal notifications 
-are very often late/non existent.
+If none of this is a problem then proceed with payment using your chosen method with one of the below buttons.
+
+{% include button_paypal.html %}{% include button_crypto.html %}
+
+For all payment options, when your payment is complete please send an email using the button below so i can get you up and running as quickly as possible...Notifications (especially Paypal) are often slow.
+
+{% include button_email.html %}
+
 
 **Note: If you email me and get no reply, please check your spam/junk folder. I respond to every email.**
-**Also please note that many Russian email domains block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
+**Also please note that many Russian email domains (mail.ru etc) block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
 
 
 # Contact and Support

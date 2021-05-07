@@ -31,9 +31,9 @@ icon_guide_installation:  "fas fa-toolbox"
 icon_info_purchasing:     "fab fa-paypal"
 icon_info_signing:        "fas fa-edit"
 icon_jailbreak_install:   "fas fa-arrow-circle-down"
-icon_paypal:              "fab fa-paypal"
-icon_bitcoin:             "fab fa-bitcoin"
-icon_ethereum:            "fab fa-ethereum"
+icon_paypal:              "fab fa-paypal fa-2x"
+icon_bitcoin:             "fab fa-bitcoin fa-2x"
+icon_ethereum:            "fab fa-ethereum fa-2x"
 
 anchor_contact-and-support:   "#contact-and-support"
 
