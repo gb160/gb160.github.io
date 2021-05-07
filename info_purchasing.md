@@ -1,4 +1,4 @@
-### Purchasing Information
+# Purchasing Information
 
 We now accept payment via Paypal, Credit/Debit Card, Bitcoin or Ethereum
 
@@ -46,7 +46,7 @@ When your payment is complete please send an email using the button below so i c
 **Also please note that many Russian email domains (mail.ru etc) block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine**
 
 
-### Contact and Support
+# Contact and Support
 
 If any issues or questions arise, then feel free to contact support:
 
@@ -56,14 +56,14 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 
 
-### Payment Methods
+# Payment Methods
 
-# To Purchase with Bitcoin or Etherium, use the button below:
+## To Purchase with Bitcoin or Etherium, use the button below:
 
 {% include button_crypto.html %}
 
 
-# To Purchase with Paypal or Credit/Debit card, use the options below:
+## To Purchase with Paypal or Credit/Debit card, use the options below:
 
 <div id="smart-button-container">
       <div style="text-align: center;">
@@ -102,4 +102,4 @@ Use this software at your own risk, we accept no responsibility for any damage c
     initPayPalButton();
   </script>
 
-  **All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase**
+##  All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase
