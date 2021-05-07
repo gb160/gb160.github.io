@@ -60,7 +60,7 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 ## To Purchase with Bitcoin or Etherium, use the button below:
 
-* {% include button_crypto.html %}
+{% include button_crypto.html %}{: .btn_indent}
 
 
 ## To Purchase with Paypal or Credit/Debit card, use the options below:
