@@ -56,14 +56,14 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 
 
-###Payment Methods
+###P ayment Methods
 
-#To Purchase with Bitcoin or Etherium, use the button below:
+# To Purchase with Bitcoin or Etherium, use the button below:
 
 {% include button_crypto.html %}
 
 
-#To Purchase with Paypal or Credit/Debit card, use the options below:
+# To Purchase with Paypal or Credit/Debit card, use the options below:
 
 <div id="smart-button-container">
       <div style="text-align: center;">
