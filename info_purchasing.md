@@ -1,5 +1,7 @@
 # Purchasing Information
 
+We now accept payment via Paypal, Bitcoin or Ethereum
+
 **It is presumed if you purchase this app you have read and understood the following:**
 
 This app is iOS only.
@@ -29,11 +31,9 @@ The price of the app is £15 (UK/GBR) for a 12 month license, you will be entitl
 
 In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
 
-**We now accept payment via Paypal, Bitcoin or Ethereum**
-
 Paypal Note: If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
 
-If none of this is a problem then proceed with payment using your chosen method with one of the below buttons.
+If none of this is a problem then purchase by choosing your preferred payment method below.
 
 {% include button_paypal.html %}{% include button_crypto.html %}
 
