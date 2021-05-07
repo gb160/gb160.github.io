@@ -58,7 +58,7 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 # Payment Methods
 
-## To Purchase with Bitcoin or Etherium, use the button below:
+## To Purchase with Bitcoin or Ethereum, use the button below:
 
 {% include button_crypto.html %}
 
