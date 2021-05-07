@@ -32,8 +32,13 @@ icon_info_purchasing:     "fab fa-paypal"
 icon_info_signing:        "fas fa-edit"
 icon_jailbreak_install:   "fas fa-arrow-circle-down"
 icon_paypal:              "fab fa-paypal"
+icon_bitcoin:             "fab fa-bitcoin"
+icon_ethereum:            "fab fa-ethereum"
 
 anchor_contact-and-support:   "#contact-and-support"
+
+#crypto
+url_coinbase:             "https://commerce.coinbase.com/checkout/061da20e-f018-4d8a-be2a-c488ae77a784"
 
 # email stuff
 email:
