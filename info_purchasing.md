@@ -1,6 +1,6 @@
-# Purchasing Information
+### Purchasing Information
 
-We now accept payment via Paypal, Bitcoin or Ethereum
+We now accept payment via Paypal, Credit/Debit Card, Bitcoin or Ethereum
 
 **It is presumed if you purchase this app you have read and understood the following:**
 
@@ -33,20 +33,20 @@ In the case of upgrading/losing your device, it is possible to switch your login
 
 Paypal Note: If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR), you can avoid this extra fee by selecting 'Friends and Family'
 
-If none of this is a problem then purchase by choosing your preferred payment method below.
+If none of this is a problem then purchase by choosing your preferred payment method at the bottom of this page.
 
-{% include button_paypal.html %}{% include button_crypto.html %}
+**All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase**
 
-For all payment options, when your payment is complete please send an email using the button below so i can get you up and running as quickly as possible...Notifications (especially Paypal) are often slow.
+When your payment is complete please send an email using the button below so i can get you up and running as quickly as possible...Notifications (especially Paypal) are often slow.
 
 {% include button_email.html %}
 
+**You will receive your login and installation instruction via the email address you provide**
+**If you complete your purchase and get no reply, please check your spam/junk folder**
+**Also please note that many Russian email domains (mail.ru etc) block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine**
 
-**Note: If you email me and get no reply, please check your spam/junk folder. I respond to every email.**
-**Also please note that many Russian email domains (mail.ru etc) block emails from ProtonMail, so if your email address end with '.ru' please use a different one. Gmail/Hotmail/iCloud etc all work fine.**
 
-
-# Contact and Support
+### Contact and Support
 
 If any issues or questions arise, then feel free to contact support:
 
@@ -55,6 +55,15 @@ If any issues or questions arise, then feel free to contact support:
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
 
+
+###Payment Methods
+
+#To Purchase with Bitcoin or Etherium, use the button below:
+
+{% include button_crypto.html %}
+
+
+#To Purchase with Paypal or Credit/Debit card, use the options below:
 
 <div id="smart-button-container">
       <div style="text-align: center;">
@@ -92,3 +101,5 @@ Use this software at your own risk, we accept no responsibility for any damage c
     }
     initPayPalButton();
   </script>
+
+  **All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase**
