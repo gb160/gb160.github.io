@@ -31,7 +31,7 @@ The price of the app is £15 (UK/GBR) for a 12 month license, you will be entitl
 
 In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
 
-Paypal Note: If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR)
+Paypal Note: If you select 'Paying for goods or services' a fee to paypal will be charged, in which case the price is £17 (UK/GBR), you can avoid this extra fee by selecting 'Friends and Family'
 
 If none of this is a problem then purchase by choosing your preferred payment method below.
 
