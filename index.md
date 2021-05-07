@@ -19,6 +19,8 @@
 
 {% include button_info_purchasing.html %}
 
+We now accept payment via Paypal, Credit/Debit Card, Bitcoin or Ethereum
+
 
 # Signing
 

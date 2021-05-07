@@ -34,6 +34,7 @@ icon_jailbreak_install:   "fas fa-arrow-circle-down fa-2x"
 icon_paypal:              "fab fa-paypal fa-2x"
 icon_bitcoin:             "fab fa-bitcoin fa-2x"
 icon_ethereum:            "fab fa-ethereum fa-2x"
+icon_credit_card:         "fas fa-credit-card fa-2x"
 
 anchor_contact-and-support:   "#contact-and-support"
 
