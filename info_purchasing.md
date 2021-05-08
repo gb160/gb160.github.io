@@ -65,41 +65,6 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 ## To Purchase with Paypal or Credit/Debit card, use the options below:
 
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=AZ8aHkOGwVAwNrk4hoUkKXLXw7d-rmlHXSLEu9s1DSGeM1B3Vx-8EXGynqJrqmgLSdD8Gk9_ZIt76Yke&currency=GBP" data-sdk-integration-source="button-factory"></script>
-  <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'pill',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'checkout',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"Mod DJI Fly 12 Month License","amount":{"currency_code":"GBP","value":15}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-            alert('Transaction completed by ' + details.payer.name.given_name + '!');
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
+{% include buttons_paypal_checkout.html %}
 
 ##  All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase
