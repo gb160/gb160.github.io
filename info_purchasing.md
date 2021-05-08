@@ -58,7 +58,7 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 # Payment Methods
 
-## To Purchase with Bitcoin or Ethereum, use the button below:
+## To Purchase with Bitcoin or Ethereum, use the button below...before purchase you will be asked to enter your email address, this is just so I know where to send the login/installation details:
 
 {% include button_crypto.html %}
 
