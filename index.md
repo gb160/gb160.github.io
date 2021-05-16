@@ -41,7 +41,7 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 ![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
 
-
+![IMG_1135](https://user-images.githubusercontent.com/2493592/118408038-8eec1000-b67b-11eb-9a95-b7c802fc7931.jpg)
 
 # Mavic Air 2 FCC range test
 
