@@ -12,9 +12,6 @@
 * **Airsense (ADSB) for Mavic Air 2 where model number ends in '3W'**
 
 
-![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
-
-
 # Purchasing Information
 
 {% include button_info_purchasing.html %}
@@ -41,6 +38,10 @@ If any issues or questions arise, then feel free to contact support:
 {% include button_email.html %}
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
+
+![shot](https://user-images.githubusercontent.com/2493592/115835276-0082c680-a40e-11eb-93b4-10c0ad6f0b6a.jpeg)
+
+
 
 # Mavic Air 2 FCC range test
 
