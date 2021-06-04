@@ -15,11 +15,18 @@ header-img: "/assets/img/bg.jpg"
 
 #URLs
 url_dropbox:              "https://www.dropbox.com/s/cqp8vgr2ut9iyct/Mod_DJI_Fly_v1.4.3_unsig.ipa?dl=1"
-url_paypal:               "https://paypal.me/fccdjifly/15GBP"
 url_cydia:                "cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/"
 url_jailbreak_install:    "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/su5tmggg0cy9yj9/v1.4.3.plist"
 url_beta_install:         "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/44yr0mizt4vhcgx/v1.4.0.plist"
 url_appbox:               "https://tiny.app.link/iwQM6SSjjgb"
+
+#payment urls
+
+#crypto
+url_paypal:               "https://paypal.me/fccdjifly/15GBP"
+url_paypal_switch:        "https://paypal.me/fccdjifly/5GBP"
+url_coinbase:             "https://commerce.coinbase.com/checkout/061da20e-f018-4d8a-be2a-c488ae77a784"
+url_coinbase_switch:      "https://commerce.coinbase.com/checkout/d9daed6c-1c66-449f-9dc2-64464bbb3b4e"
 
 #button icons
 icon_appbox:              "fas fa-box fa-2x"
@@ -37,9 +44,6 @@ icon_ethereum:            "fab fa-ethereum fa-2x"
 icon_credit_card:         "fas fa-credit-card fa-2x"
 
 anchor_contact-and-support:   "#contact-and-support"
-
-#crypto
-url_coinbase:             "https://commerce.coinbase.com/checkout/061da20e-f018-4d8a-be2a-c488ae77a784"
 
 # email stuff
 email:

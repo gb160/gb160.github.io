@@ -29,8 +29,6 @@ Due to limited test devices, we can only guarantee the app will work on iOS12, i
 
 The price of the app is £15 (UK/GBR) for a 12 month license, you will be entitled to free updates within that 12 months.
 
-In the case of upgrading/losing your device, it is possible to switch your login to a different device for a further £5 (UK/GBR)
-
 If none of this is a problem then purchase by choosing your preferred payment method at the bottom of this page.
 
 **All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase**
@@ -68,3 +66,10 @@ Use this software at your own risk, we accept no responsibility for any damage c
 {% include buttons_paypal_checkout.html %}
 
 ##  All Payment options are completely secure, all Credit/Debit card purchases are handled directly by Paypal, all crypto purchases are handled directly by Coinbase
+
+
+# Upgrading iDevice
+
+Your license can be switched to a new or replacement iDevice for a fee of £5 (GPB), just select the payment button below and send me a quick email:
+
+{% include button_paypal_switch.html %}  {% include button_crypto_switch.html %}
