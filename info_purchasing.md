@@ -72,4 +72,6 @@ Use this software at your own risk, we accept no responsibility for any damage c
 
 Your license can be switched to a new or replacement iDevice for a fee of £5 (GPB), just select the payment button below and send me a quick email:
 
-{% include button_paypal_switch.html %}      {% include button_crypto_switch.html %}
+{% include button_paypal_switch.html %}
+
+{% include button_crypto_switch.html %}
