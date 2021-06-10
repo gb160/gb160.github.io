@@ -1,6 +1,8 @@
 <!-- {% include button_anchor_contact-and-support.html %} -->
 <!-- ![RPReplay_Final1623339127](https://user-images.githubusercontent.com/2493592/121555090-9dbfab80-ca0a-11eb-99e9-339cd56cc10c.gif) -->
-![RPReplay_Final1623340443-2](https://user-images.githubusercontent.com/2493592/121559341-6b17b200-ca0e-11eb-9592-45722b69457d.gif)
+<!-- ![RPReplay_Final1623340443-2](https://user-images.githubusercontent.com/2493592/121559341-6b17b200-ca0e-11eb-9592-45722b69457d.gif) -->
+![RPReplay_Final1623340443](https://user-images.githubusercontent.com/2493592/121559974-fee97e00-ca0e-11eb-8a4b-2378f944ec03.gif)
+
 
 # Supported DJI Drones
 
