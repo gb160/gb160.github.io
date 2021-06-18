@@ -12,12 +12,11 @@ github:
 header-img: "/assets/img/bg.jpg"
 
 
-
 #URLs
-url_dropbox:              "https://www.dropbox.com/s/cqp8vgr2ut9iyct/Mod_DJI_Fly_v1.4.3_unsig.ipa?dl=1"
+url_dropbox:              "https://www.dropbox.com/s/1ufdnl271rjnovp/Mod_DJI_Fly_v1.4.4_unsig.ipa?dl=1"
 url_cydia:                "cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/"
 url_jailbreak_install:    "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/ff8srvat8c3dm8p/v1.4.4.plist"
-url_beta_install:         "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/9lagbthv97a70rr/v1.4.3_beta.plist"
+url_beta_install:         "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/jibberish/v1.4.3_beta.plist"
 url_appbox:               "https://tiny.app.link/iwQM6SSjjgb"
 
 #payment urls
