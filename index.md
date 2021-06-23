@@ -1,5 +1,6 @@
 <!-- {% include button_anchor_contact-and-support.html %} -->
-![RPReplay_Final1623340443](https://user-images.githubusercontent.com/2493592/121559974-fee97e00-ca0e-11eb-8a4b-2378f944ec03.gif)
+
+![IMG_1216](https://user-images.githubusercontent.com/2493592/123098937-985e5a00-d429-11eb-80d1-e9d89dddcd07.jpg)
 
 # Supported DJI Drones
 
@@ -48,9 +49,7 @@ If any issues or questions arise, then feel free to contact support:
 
 Use this software at your own risk, we accept no responsibility for any damage caused by, or to your DJI device.
 
-![IMG_1136](https://user-images.githubusercontent.com/2493592/118470885-0747e500-b6ff-11eb-9180-aa1f6003f260.jpg)
-
-![IMG_1137](https://user-images.githubusercontent.com/2493592/118470922-1333a700-b6ff-11eb-971e-0bfdc5a2a52e.jpg)
+![RPReplay_Final1623340443](https://user-images.githubusercontent.com/2493592/121559974-fee97e00-ca0e-11eb-8a4b-2378f944ec03.gif)
 
 # Mavic Air 2 FCC range test
 
