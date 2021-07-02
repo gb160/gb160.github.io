@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-title: Mod DJI Fly iOS v1.4.4
+title: Mod DJI Fly iOS v1.4.8
 
 description: Unlock full FCC power to increase signal strength and range considerably <br><br>Unlock 5.8 GHz band in restricted locations <br><br>Unlock Airsense (ADSB) on supported Mavic Air 2 drones <br><br>Optional Weather Status Alert
 
@@ -13,10 +13,10 @@ header-img: "/assets/img/bg.jpg"
 
 
 #URLs
-url_dropbox:              "https://www.dropbox.com/s/1ufdnl271rjnovp/Mod_DJI_Fly_v1.4.4_unsig.ipa?dl=1"
+url_dropbox:              "https://www.dropbox.com/s/6k9oc4fhixhri5d/Mod_DJI_Fly_v1.4.8_1_unsig.ipa?dl=1"
 url_cydia:                "cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.akemi.ai/"
-url_jailbreak_install:    "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/ff8srvat8c3dm8p/v1.4.4.plist"
-url_beta_install:         "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/9lagbthv97a70rr/v1.4.4_beta.plist"
+url_jailbreak_install:    "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/4vxmhsue31vwy0o/v1.4.8.plist"
+url_beta_install:         "itms-services://?action=download-manifest&amp;url=https://dl.dropboxusercontent.com/s/jibberish/v1.4.4_beta.plist"
 url_appbox:               "https://tiny.app.link/iwQM6SSjjgb"
 
 #payment urls
