@@ -31,9 +31,8 @@ if you have your own .p12/.mobileprovision files...
 * Select your '.mobileprovision' and '.p12' files.
 * Enter your .p12 password
 * Click/tap on the 'sign app' button
-* If you are using your iPhone/iPad just agree to the install prompt that appears and Mod DJI Fly will install to your homescreen, installation can take a few minutes so be patient.
 
-
+If you are using your iPhone/iPad just agree to the install prompt that appears and Mod DJI Fly will install to your homescreen, installation can take a few minutes so be patient.
 
 If you are using Mac/PC after a few seconds a QR Code will appear on the screen
 * Then just open the camera on your iDevice and let it focus on the QR Code, then select 'open in iTunes' and agree to the install prompt.
