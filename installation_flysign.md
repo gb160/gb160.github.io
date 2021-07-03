@@ -15,14 +15,14 @@ This method is the quickest and easiest way to install the app without a jailbre
 ![IMG_0176](https://user-images.githubusercontent.com/2493592/115844922-3a58ca80-a418-11eb-87bb-016da4119137.jpg)
 
 
-* New: When you have your device registered with UDID registrations you can now sign/install Mod DJI Fly with just your UDID 
+If you have your device registered with UDID registrations and you have your UDID to hand:
 * Go to: [FlySign](https://flysign.ddns.net)
 * Click/tap on 'UDID'
 * Enter your .p12 password (or leave blank for 123456)
 * Click/tap on the 'sign app' button
 
-Or if you have your own .p12/.mobileprovision files...
 
+Or if you have your own .p12/.mobileprovision files...
 * Go to: [FlySign](https://flysign.ddns.net)
 * Click/tap on 'signing'
 * Select your '.mobileprovision' and '.p12' files.
@@ -34,6 +34,7 @@ Then:
 
 * If you are using your iPhone/iPad just agree to the install prompt that appears and Mod DJI Fly will install to your homescreen, installation can take a few minutes so be patient.
 
+OR
 
 * If you are using Mac/PC after a few seconds a QR Code will appear on the screen
 * * Then just open the camera on your iDevice and let it focus on the QR Code, then select 'open in iTunes' and agree to the install prompt.
