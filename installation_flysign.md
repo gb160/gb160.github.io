@@ -2,14 +2,14 @@
 
 * This guide can onlly be followed if:
 
-* You have your '.mobileprovision' and '.p12' files, and your .p12 password... these will all be provided by UDID Registrations or can be retrieved from your apple developer account. If using UDID registrations the p12 password is nearly always '123456'**
+* * You have your '.mobileprovision' and '.p12' files, and your .p12 password... these will all be provided by UDID Registrations or can be retrieved from your apple developer account. If using UDID registrations the p12 password is nearly always '123456'
 
-OR
+* OR
 
-* You have registered your iDevice with UDID registrations and you have you UDID to hand. 
+* * You have registered your iDevice with UDID registrations and you have you UDID to hand. 
 
 
-* This method is the quickest and easiest way to install the app without a jailbreak, as the signing and installation can be done direct from your iDevice without downloading the .ipa file meaning a Mac/PC isn't required... just transfer/email your .p12 and .mobileprovision files to your iDevice.
+* This method is the quickest and easiest way to install the app without a jailbreak, as the signing and installation can be done direct from your iDevice without downloading the .ipa file meaning a Mac/PC isn't required... Make sure you have your UDID stored somewhere on your iPhone/ipad or transfer/email your .p12 and .mobileprovision files to your iPhone/iPad.
 
 
 ![IMG_0176](https://user-images.githubusercontent.com/2493592/115844922-3a58ca80-a418-11eb-87bb-016da4119137.jpg)
