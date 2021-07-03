@@ -36,7 +36,6 @@ If you are using your iPhone/iPad just agree to the install prompt that appears 
 
 If you are using Mac/PC after a few seconds a QR Code will appear on the screen
 * Then just open the camera on your iDevice and let it focus on the QR Code, then select 'open in iTunes' and agree to the install prompt.
-* If you are using your iDevice tap and hold the QR Code, then select 'open in iTunes' and agree to the install prompt.
 * Mod DJI Fly will now install to your homescreen, installation can take a few minutes so be patient.
 
 Remember to enter the login that you have been provided with in iOS Settings -> Mod DJI Fly
