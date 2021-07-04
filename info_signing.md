@@ -8,7 +8,7 @@ If your device is jailbroken you do not need to sign the app.
 
 ## UDID Registrations and Flysign
 * UDID Registrations can provide you with the necessary files to sign the app for 12 months. This effectively gives you the benefits of using an Apple developer certificate at a much smaller cost.
-* The silver package is the cheapest package that offers the necessary files to sign and install Mod DJI Fly, however I recommend the gold package as it offers protection if your device gets revoked.
+* The silver package is the cheapest package that offers the necessary files to sign and install Mod DJI Fly, however I recommend the gold package as it offers protection if your device gets revoked...the Bronze package does not provide what we require, so dont purchase that.
 * You can register your device with UDID Registrations [HERE](https://www.udidregistrations.com/buy)
 * When you receive the confirmation email from UDID Registrations you can now install Mod DJI Fly direct to your device using Flysign and just your UDID.
 * **After you have registered your device with UDID Registrations, you still need to purchase a license for Mod DJI Fly**
