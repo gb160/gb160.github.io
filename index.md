@@ -10,6 +10,8 @@
 
 * **Mini 2**
 
+* **FPV**
+
 * **Mavic Mini**
 
 # Features
