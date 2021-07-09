@@ -4,9 +4,9 @@ We now accept payment via Paypal, Credit/Debit Card, Bitcoin or Ethereum
 
 **It is presumed if you purchase this app you have read and understood the following:**
 
-This app is iOS only.
+**This app is iOS only**
 
-**FCC is available for all Mavic Air 2, Air2S, Mini 2 & Mini drones**
+**FCC is available for all Mavic Air 2, Air2S, FPV, Mini 2 & Mini drones**
 
 **5.8GHz band is also available for countries where it's not permitted to use (Russia, Israel etc)**
 
@@ -14,9 +14,9 @@ This app is iOS only.
 
 **YOU MUST ARRANGE APP SIGNING YOURSELF**
 
-{% include button_info_signing.html %}
-
 **By purchasing the app it is presumed that you know how to sign the app and install on your device.**
+
+{% include button_info_signing.html %}
 
 
 If you have a jailbroken iDevice you wont need to sign the app.
