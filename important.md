@@ -6,7 +6,7 @@ You can either arrange app signing yourself, or use a 3rd party signing service.
 
 Recommended solution:
 
-* Enter your UDID and buy the Gold package from here https://www.udidregistrations.com/buy
+* Enter your UDID and buy the Gold package from here [HERE](https://www.udidregistrations.com/buy)
 
 * To install the latest Mod DJI Fly go to https://flysign.ddns.net
 
